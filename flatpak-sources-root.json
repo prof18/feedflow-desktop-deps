@@ -855,10 +855,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/compose-compiler-gradle-plugin/2.2.0/compose-compiler-gradle-plugin-2.2.0-gradle88.jar",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/compose-compiler-gradle-plugin/2.2.0/compose-compiler-gradle-plugin-2.2.0-gradle813.jar",
     "sha512": "8311b62546705a54fb02cc3ab8082fbbee8a315d78034fc413ff67227b6c341b9257b7945eba69af3a34800b5badf6e150834cbdfacf9ad230c23a4b28e4149c",
     "dest": "./offline-repository/org/jetbrains/kotlin/compose-compiler-gradle-plugin/2.2.0",
-    "dest-filename": "compose-compiler-gradle-plugin-2.2.0-gradle88.jar"
+    "dest-filename": "compose-compiler-gradle-plugin-2.2.0-gradle813.jar"
   },
   {
     "type": "file",
@@ -876,10 +876,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/fus-statistics-gradle-plugin/2.2.0/fus-statistics-gradle-plugin-2.2.0-gradle88.jar",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/fus-statistics-gradle-plugin/2.2.0/fus-statistics-gradle-plugin-2.2.0-gradle813.jar",
     "sha512": "6dadb0b69392f6f4755a7845a81b6bbd4cf0c8828dbf253b671fa57a83fb7d5713c98ae66db6aadd4818e8b3f6838d77ba978bd6b5e711331a606517dd11610d",
     "dest": "./offline-repository/org/jetbrains/kotlin/fus-statistics-gradle-plugin/2.2.0",
-    "dest-filename": "fus-statistics-gradle-plugin-2.2.0-gradle88.jar"
+    "dest-filename": "fus-statistics-gradle-plugin-2.2.0-gradle813.jar"
   },
   {
     "type": "file",
@@ -995,10 +995,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin-api/2.2.0/kotlin-gradle-plugin-api-2.2.0-gradle88.jar",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin-api/2.2.0/kotlin-gradle-plugin-api-2.2.0-gradle813.jar",
     "sha512": "a4c6440f2f9a2ab5b0462d7f7a27389a66f32eb7810456cf1bfb7dfd44e666e2f655102424ad01f166ea02c0eda620061b6ed64e42921421cc125f921a7a0323",
     "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-gradle-plugin-api/2.2.0",
-    "dest-filename": "kotlin-gradle-plugin-api-2.2.0-gradle88.jar"
+    "dest-filename": "kotlin-gradle-plugin-api-2.2.0-gradle813.jar"
   },
   {
     "type": "file",
@@ -1079,10 +1079,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin/2.2.0/kotlin-gradle-plugin-2.2.0-gradle88.jar",
-    "sha512": "c519cdc25804066adac2dd474f134b5202aa75eaaaaf80608558d04d744db43480535995518c31434759cf5d6576f0abfa5f74a6f66fc8efa8fb23ff0b9fa509",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin/2.2.0/kotlin-gradle-plugin-2.2.0-gradle813.jar",
+    "sha512": "423103aa1aa987d1156ce0f35c6e2c11ec426922f2d9c2b37f35b0ddbfb8630b50797304457454d1f8354dcbdefa0323fb11b3138ed68992aacaa2e91b25a74f",
     "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-gradle-plugin/2.2.0",
-    "dest-filename": "kotlin-gradle-plugin-2.2.0-gradle88.jar"
+    "dest-filename": "kotlin-gradle-plugin-2.2.0-gradle813.jar"
   },
   {
     "type": "file",
@@ -1163,17 +1163,17 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/1.9.23/kotlin-reflect-1.9.23.jar",
-    "sha512": "05ce94dd5e9884805492d30dad2871399cbf9c13772aff2f7cae4dd1dd4dac938f370a3d9541bf0e4fde4c19b6d52ceed4505f1ef399e1328517d740d17e851c",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/1.9.23",
-    "dest-filename": "kotlin-reflect-1.9.23.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.0.21/kotlin-reflect-2.0.21.jar",
+    "sha512": "3b35fb5684bc7cad47a5c068b2671ae55cabe6ca16745277ac44ce0785b1384ad35444fbe10b68ca7c360ba9a86b0061a6101956b370e6c19bd8c85c9bc13dcd",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.0.21",
+    "dest-filename": "kotlin-reflect-2.0.21.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/1.9.23/kotlin-reflect-1.9.23.pom",
-    "sha512": "a404ccc9b073d79fd06fb9f96c41d17d683bccc31766a80a675bca64a0c9202ac5c0c09627708a31046ec4b570f617d0da7c38119e6548568e3cea17005e003e",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/1.9.23",
-    "dest-filename": "kotlin-reflect-1.9.23.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.0.21/kotlin-reflect-2.0.21.pom",
+    "sha512": "39be2e959d5c2e2e22445edcfb41b43497b2ad5edfc936081a6a72fcf8b9291571f5d3d6a7ef5d7eb30ddd2cff744966f68ddfea2da33120bf30326e12492425",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.0.21",
+    "dest-filename": "kotlin-reflect-2.0.21.pom"
   },
   {
     "type": "file",
@@ -1184,10 +1184,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-serialization/2.2.0/kotlin-serialization-2.2.0-gradle88.jar",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-serialization/2.2.0/kotlin-serialization-2.2.0-gradle813.jar",
     "sha512": "596967347ad4b67173f6615be95c7cf049ffe24290f0d0bd9572b15e2672ca4cab068a6ea933a442064e744bbb91f9e8589d421358e4eef9905c4e8474c6caf8",
     "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-serialization/2.2.0",
-    "dest-filename": "kotlin-serialization-2.2.0-gradle88.jar"
+    "dest-filename": "kotlin-serialization-2.2.0-gradle813.jar"
   },
   {
     "type": "file",
@@ -1205,10 +1205,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.9.23/kotlin-stdlib-common-1.9.23.pom",
-    "sha512": "fa6aae7ee91f121730b83dac7fe10d6aa03c424ccd754510d87ff4510c6809988b056e24f880018984a591aeee41e0af8be8fae38023f943d38855d51080e476",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.9.23",
-    "dest-filename": "kotlin-stdlib-common-1.9.23.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/2.0.21/kotlin-stdlib-common-2.0.21.pom",
+    "sha512": "85a2f145f964d2296694ba5ab03f116268267fcca5eaf1f63445b5bfb3478997057d57f8e60661979e7aa55fc028728ac3aa7a385a4ef7109e904f104c59308e",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.0.21",
+    "dest-filename": "kotlin-stdlib-common-2.0.21.pom"
   },
   {
     "type": "file",
@@ -1240,24 +1240,24 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.9.23/kotlin-stdlib-1.9.23.jar",
-    "sha512": "cfd7194b933e9c9b2604c0066d8f868b8e693c272ac9cd549472f4d9b4b5d98a418a73ca5e9b25f029b621bb43d6c5473ae7c9c04a224c30bff8200057a2bbd5",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/1.9.23",
-    "dest-filename": "kotlin-stdlib-1.9.23.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.0.21/kotlin-stdlib-2.0.21.jar",
+    "sha512": "4e6786c4e7af13eddc5a2a06b336f430987f16ac1f4c0af541cd97400d689f7d8726a276ca549e7f19d7b939f47a1535dff7ea45f76b14197a0e876cc44d3acd",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.0.21",
+    "dest-filename": "kotlin-stdlib-2.0.21.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.9.23/kotlin-stdlib-1.9.23.module",
-    "sha512": "953a28dcb3fab8b8289e6aae3bb77a099559b70fe5b1b3b46e2379403903d1daebf571d990cf3bea683a2bb1d40b9db441e82d617be6382737864862bd4e43d9",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/1.9.23",
-    "dest-filename": "kotlin-stdlib-1.9.23.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.0.21/kotlin-stdlib-2.0.21.module",
+    "sha512": "28d2618070b9a596ed01a547f360d21bee2d504020952cda8b8a914ee05454b6560eacb4d4d602ae61b915559e76acbb3bcc96b25fe76140ec14cca5d8c07261",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.0.21",
+    "dest-filename": "kotlin-stdlib-2.0.21.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.9.23/kotlin-stdlib-1.9.23.pom",
-    "sha512": "cfb588e41f1701a351ebba794f850e9df2c4888c7d47d3fa626da6c67e2d17fd25dd19b92d12e7f334b634864a96b0cd0cbb062a2d5881dc63867abcdce1ba68",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/1.9.23",
-    "dest-filename": "kotlin-stdlib-1.9.23.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.0.21/kotlin-stdlib-2.0.21.pom",
+    "sha512": "8b1f1ffcd1fdc8f71183f80fad469036a6bdfce169c5691484070259fc37d3eab7879e0658ef605e5609469a18c9c16f77f3123de1f0605153feff616985beb0",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.0.21",
+    "dest-filename": "kotlin-stdlib-2.0.21.pom"
   },
   {
     "type": "file",

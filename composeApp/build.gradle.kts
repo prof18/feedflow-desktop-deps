@@ -101,7 +101,6 @@ compose.desktop {
         }
     }
 }
-
 dependencies {
     add("kspCommonMainMetadata", libs.lyricist.processorXml)
 }
@@ -114,11 +113,7 @@ ksp {
     arg("lyricist.xml.generateComposeAccessors", "false")
 }
 
-tasks.withType<KotlinCompilationTask<*>>().all {
-    if (name != "kspCommonMainKotlinMetadata") {
-        dependsOn("kspCommonMainKotlinMetadata")
-    }
-}
+
 
 kotlin.sourceSets.commonMain {
     kotlin.srcDir("build/generated/ksp/metadata/commonMain/kotlin")
