@@ -37,6 +37,7 @@ kotlin {
             implementation(libs.jsoup)
             implementation(libs.koin.core)
             implementation(libs.kotlinx.coroutines.core)
+            implementation(libs.kotlinx.coroutines.core.old)
             implementation(libs.kotlinx.date.time)
             implementation(libs.kotlinx.serialization.json)
             implementation(libs.ktor.client.core)
@@ -69,6 +70,7 @@ kotlin {
             implementation(libs.bundles.about.libraries)
             implementation(libs.flexmark.html2md.converter)
             implementation(libs.jsoup)
+            implementation(libs.kotlinx.coroutines.core.old)
             implementation(libs.jsystem.theme.detector)
             implementation(libs.koin.core)
             implementation(libs.kotlinx.coroutines.core)
@@ -85,6 +87,8 @@ kotlin {
             implementation(libs.voyager.navigator)
             implementation(libs.voyager.transition)
             implementation(project.dependencies.platform(libs.koin.bom))
+            implementation(libs.ksp.aa.embeddable)
+
         }
     }
 }
@@ -103,6 +107,7 @@ compose.desktop {
 }
 dependencies {
     add("kspCommonMainMetadata", libs.lyricist.processorXml)
+    ksp(libs.lyricist.processorXml)
 }
 
 ksp {
@@ -132,5 +137,4 @@ sqldelight {
 tasks.flatpakGradleGenerator {
     outputFile = project.file("flatpak-sources.json")
     downloadDirectory.set("./offline-repository")
-    excludeConfigurations.set(listOf("testCompileClasspath", "testRuntimeClasspath"))
 }

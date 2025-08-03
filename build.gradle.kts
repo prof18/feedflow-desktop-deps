@@ -41,5 +41,4 @@ subprojects {
 tasks.flatpakGradleGenerator {
     outputFile = project.file("flatpak-sources-root.json")
     downloadDirectory.set("./offline-repository")
-    excludeConfigurations.set(listOf("testCompileClasspath", "testRuntimeClasspath"))
 }
