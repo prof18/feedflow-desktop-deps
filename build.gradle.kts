@@ -1,17 +1,17 @@
 plugins {
-    alias(libs.plugins.kotlin.android) apply false
-    alias(libs.plugins.kotlin.multiplatform) apply false
-    alias(libs.plugins.kotlin.serialization) apply false
-    alias(libs.plugins.sqldelight) apply false
-    alias(libs.plugins.compose.multiplatform) apply false
-    alias(libs.plugins.ksp) apply false
-    alias(libs.plugins.about.libraries) apply false
-    alias(libs.plugins.crashlytics) apply false
-    alias(libs.plugins.detekt) apply false
-    alias(libs.plugins.org.jetbrains.kotlin.jvm) apply false
-    alias(libs.plugins.compose.compiler) apply false
-    alias(libs.plugins.skie) apply false
-    alias(libs.plugins.compose.hotreload) apply false
+    alias(feedflowLibs.plugins.kotlin.android) apply false
+    alias(feedflowLibs.plugins.kotlin.multiplatform) apply false
+    alias(feedflowLibs.plugins.kotlin.serialization) apply false
+    alias(feedflowLibs.plugins.sqldelight) apply false
+    alias(feedflowLibs.plugins.compose.multiplatform) apply false
+    alias(feedflowLibs.plugins.ksp) apply false
+    alias(feedflowLibs.plugins.about.libraries) apply false
+    alias(feedflowLibs.plugins.crashlytics) apply false
+    alias(feedflowLibs.plugins.detekt) apply false
+    alias(feedflowLibs.plugins.org.jetbrains.kotlin.jvm) apply false
+    alias(feedflowLibs.plugins.compose.compiler) apply false
+    alias(feedflowLibs.plugins.skie) apply false
+    alias(feedflowLibs.plugins.compose.hotreload) apply false
     alias(libs.plugins.flatpak.gradle.generator)
 }
 

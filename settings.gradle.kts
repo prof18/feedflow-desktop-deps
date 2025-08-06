@@ -16,6 +16,14 @@ pluginManagement {
 }
 
 dependencyResolutionManagement {
+
+    versionCatalogs {
+        // declares an additional catalog, named 'testLibs', from the 'test-libs.versions.toml' file
+        create("feedflowLibs") {
+            from(files("../feed-flow/gradle/libs.versions.toml"))
+        }
+    }
+
     repositories {
         google {
             mavenContent {
