@@ -1,12 +1,16 @@
 [versions]
 compose-annotation-internal = "1.6.11"
 flatpack-gradle-generator = "1.5.0"
-ksp = "2.2.0-2.0.2"
+ksp = "2.2.10-2.0.2"
+okio = "3.2.3"
 
 [libraries]
 compose-annotation-internal = { module = "org.jetbrains.compose.annotation-internal:annotation", version.ref = "compose-annotation-internal" }
 kotlinx-coroutines-core-old = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version = "1.9.0" }
 ksp-aa-embeddable = { module = "com.google.devtools.ksp:symbol-processing-aa-embeddable", version.ref = "ksp" }
+okio = { module = "com.squareup.okio:okio", version.ref = "okio" }
+proguard = { module = "com.guardsquare:proguard-gradle", version = "7.7.0" }
+
 
 [plugins]
 flatpak-gradle-generator = { id = "io.github.jwharm.flatpak-gradle-generator", version.ref = "flatpack-gradle-generator" }

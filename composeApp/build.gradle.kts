@@ -89,6 +89,7 @@ kotlin {
             implementation(project.dependencies.platform(feedflowLibs.koin.bom))
             implementation(libs.ksp.aa.embeddable)
             implementation(libs.compose.annotation.internal)
+            implementation(libs.okio)
         }
     }
 }
