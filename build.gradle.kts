@@ -11,7 +11,6 @@ plugins {
     alias(feedflowLibs.plugins.org.jetbrains.kotlin.jvm) apply false
     alias(feedflowLibs.plugins.compose.compiler) apply false
     alias(feedflowLibs.plugins.skie) apply false
-    alias(feedflowLibs.plugins.compose.hotreload) apply false
     alias(libs.plugins.flatpak.gradle.generator)
 }
 
