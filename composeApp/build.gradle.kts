@@ -46,7 +46,6 @@ kotlin {
             implementation(feedflowLibs.ktor.resources)
             implementation(feedflowLibs.ktor.serialization)
             implementation(feedflowLibs.multiplatform.settings)
-            implementation(feedflowLibs.readability4j)
             implementation(feedflowLibs.saket.swipe)
             implementation(feedflowLibs.skie.annotation)
             implementation(feedflowLibs.sqldelight.coroutine.extensions)
@@ -56,6 +55,8 @@ kotlin {
             implementation(feedflowLibs.touchlab.kermit)
             implementation(feedflowLibs.csv)
             implementation(feedflowLibs.flatlaf)
+//            implementation(feedflowLibs.ht
+            implementation(feedflowLibs.koin.composeVM)
             implementation(project.dependencies.platform(feedflowLibs.koin.bom))
         }
 
@@ -68,7 +69,6 @@ kotlin {
             implementation(feedflowLibs.compose.multiplatform.material.icons.extended)
             implementation(compose.desktop.currentOs)
             implementation(feedflowLibs.bundles.about.libraries)
-            implementation(feedflowLibs.flexmark.html2md.converter)
             implementation(feedflowLibs.jsoup)
             implementation(libs.kotlinx.coroutines.core.old)
             implementation(feedflowLibs.jsystem.theme.detector)
@@ -84,9 +84,6 @@ kotlin {
             implementation(feedflowLibs.multiplatform.markdown.renderer.m3)
             implementation(feedflowLibs.slf4j.nop)
             implementation(feedflowLibs.sqldelight.sqlite.driver)
-            implementation(feedflowLibs.voyager.navigator)
-            implementation(feedflowLibs.voyager.transition)
-            implementation(feedflowLibs.voyager.transition)
             implementation(project.dependencies.platform(feedflowLibs.koin.bom))
             implementation(libs.ksp.aa.embeddable)
             implementation(libs.compose.annotation.internal)
@@ -94,6 +91,15 @@ kotlin {
             implementation(feedflowLibs.google.api.client)
             implementation(feedflowLibs.google.oauth.client.jetty)
             implementation(feedflowLibs.google.api.services.drive)
+            implementation(feedflowLibs.htmlunit)
+            implementation(feedflowLibs.compose.multiplatform.material3.adaptive.layout)
+            implementation(feedflowLibs.compose.multiplatform.material3.adaptive.navigation)
+            implementation(feedflowLibs.haze)
+            implementation(feedflowLibs.haze.materials)
+            implementation(feedflowLibs.jetbrains.navigation3.ui)
+            implementation(feedflowLibs.jetbrains.lifecycle.viewmodel.navigation3)
+            implementation(feedflowLibs.material.window.size)
+            implementation(feedflowLibs.koin.composeVM)
         }
     }
 }
