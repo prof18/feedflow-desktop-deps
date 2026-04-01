@@ -100,6 +100,8 @@ kotlin {
             implementation(feedflowLibs.jetbrains.lifecycle.viewmodel.navigation3)
             implementation(feedflowLibs.material.window.size)
             implementation(feedflowLibs.koin.composeVM)
+            implementation(feedflowLibs.ktor.client.auth)
+            implementation(feedflowLibs.compose.unstyled.primitives)
         }
     }
 }

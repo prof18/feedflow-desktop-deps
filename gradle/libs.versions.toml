@@ -1,6 +1,6 @@
 [versions]
 compose-annotation-internal = "1.6.11"
-flatpack-gradle-generator = "1.6.0"
+flatpack-gradle-generator = "1.7.0"
 ksp = "2.2.10-2.0.2"
 okio = "3.2.3"
 
