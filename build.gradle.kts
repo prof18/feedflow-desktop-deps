@@ -1,5 +1,4 @@
 plugins {
-    alias(feedflowLibs.plugins.kotlin.android) apply false
     alias(feedflowLibs.plugins.kotlin.multiplatform) apply false
     alias(feedflowLibs.plugins.kotlin.serialization) apply false
     alias(feedflowLibs.plugins.sqldelight) apply false

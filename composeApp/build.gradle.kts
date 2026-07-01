@@ -101,7 +101,8 @@ kotlin {
             implementation(feedflowLibs.material.window.size)
             implementation(feedflowLibs.koin.composeVM)
             implementation(feedflowLibs.ktor.client.auth)
-            implementation(feedflowLibs.compose.unstyled.primitives)
+            implementation(feedflowLibs.compose.unstyled.scrollbars)
+            implementation(feedflowLibs.compose.unstyled.slider)
         }
     }
 }
