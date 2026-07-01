@@ -3627,6 +3627,20 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/typesafe/config/1.4.5/config-1.4.5.jar",
+    "sha512": "86fcdff71b4cda1e6bd85c6c1189da62230ce670fae2e5c4db2cdb485573ab162f6e12404ba2bed9d521b638f299eb3892973a0374b8f2ab4727548f77ea5e49",
+    "dest": "./offline-repository/com/typesafe/config/1.4.5",
+    "dest-filename": "config-1.4.5.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/typesafe/config/1.4.5/config-1.4.5.pom",
+    "sha512": "20fef13d4bb9b3a23b9fe08a2611cfb0768c39ec141f522e299946bda87c6c98532b7d9986aea61afe01b1374e91673dc0a15dac9a3186c8403f0cc0e4fd4f67",
+    "dest": "./offline-repository/com/typesafe/config/1.4.5",
+    "dest-filename": "config-1.4.5.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar",
     "sha512": "a7db98db470e6ad338266ff442fbdfbc277ba1d07a591336f7d15dc49fdac884da7dac04d806628b12437f993d8b5e6a4b800a66590ff11936dbf8bedcd8e860",
     "dest": "./offline-repository/commons-codec/commons-codec/1.17.1",
@@ -4439,6 +4453,48 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/github/oshai/kotlin-logging-jvm/8.0.03/kotlin-logging-jvm-8.0.03.jar",
+    "sha512": "e2e4fc48d51a073a6a84eb76646c44c9aaa292d46c570f41e3f08b2bc7b08a94bfd3b2269bace194ddea476fcc65808756cfe7aa8988a8dd32b9618d2e899feb",
+    "dest": "./offline-repository/io/github/oshai/kotlin-logging-jvm/8.0.03",
+    "dest-filename": "kotlin-logging-jvm-8.0.03.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/github/oshai/kotlin-logging-jvm/8.0.03/kotlin-logging-jvm-8.0.03.module",
+    "sha512": "9a6f0c81f77d2378be39361aa82ddfc438f1a1cb599a92be38aafa7963a848de02b8e215ef8d3a8f82654be8949775d11fbc2f6177ecadf6f014c766a599b2de",
+    "dest": "./offline-repository/io/github/oshai/kotlin-logging-jvm/8.0.03",
+    "dest-filename": "kotlin-logging-jvm-8.0.03.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/github/oshai/kotlin-logging-jvm/8.0.03/kotlin-logging-jvm-8.0.03.pom",
+    "sha512": "6a21608821d890a9073942b0b2a670ffd75459c169a427e56a0fb444e5893ec632b62951104036c59ce366b915c3ccff625b61a21435ef8586f9ff697129caa3",
+    "dest": "./offline-repository/io/github/oshai/kotlin-logging-jvm/8.0.03",
+    "dest-filename": "kotlin-logging-jvm-8.0.03.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/github/oshai/kotlin-logging/8.0.03/../../kotlin-logging-jvm/8.0.03/kotlin-logging-jvm-8.0.03.module",
+    "sha512": "9a6f0c81f77d2378be39361aa82ddfc438f1a1cb599a92be38aafa7963a848de02b8e215ef8d3a8f82654be8949775d11fbc2f6177ecadf6f014c766a599b2de",
+    "dest": "./offline-repository/io/github/oshai/kotlin-logging/8.0.03/../../kotlin-logging-jvm/8.0.03",
+    "dest-filename": "kotlin-logging-jvm-8.0.03.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/github/oshai/kotlin-logging/8.0.03/kotlin-logging-8.0.03.module",
+    "sha512": "17e6af9767bb2ade6c36947cec1325d95e107eff3bd99dc0f2c109077e8951aa721964154cc52409397ab3419a94157e49f089a76a519d3fb711c0acb009e284",
+    "dest": "./offline-repository/io/github/oshai/kotlin-logging/8.0.03",
+    "dest-filename": "kotlin-logging-8.0.03.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/github/oshai/kotlin-logging/8.0.03/kotlin-logging-8.0.03.pom",
+    "sha512": "814cfe0d66a2c8a878a975145d2f58e0d3b0571512188e3cfa81406deaa921a580f891024b0b079874a279f08936110dd05303d526a8bec2be73cc7b7a659c5a",
+    "dest": "./offline-repository/io/github/oshai/kotlin-logging/8.0.03",
+    "dest-filename": "kotlin-logging-8.0.03.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/grpc/grpc-api/1.70.0/grpc-api-1.70.0.jar",
     "sha512": "011e0ce3870ade374954e5818f3a03ab22bd19fbbf171d2873bdf1ecdbdefae183a512043f9155aa120dce3e1c902680372b18c3dcf1bb64ae508ecfa7631677",
     "dest": "./offline-repository/io/grpc/grpc-api/1.70.0",
@@ -5139,6 +5195,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-events-jvm/3.4.3/ktor-events-jvm-3.4.3.jar",
+    "sha512": "66ab81c528553b0d648951be011f470be8a73ba67dc8064f7e49438cf52c8d1a356148ac8a85929ae7cda8873c51a2b32e74b09268939ab544f6158e11dcac26",
+    "dest": "./offline-repository/io/ktor/ktor-events-jvm/3.4.3",
+    "dest-filename": "ktor-events-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-events-jvm/3.4.3/ktor-events-jvm-3.4.3.module",
+    "sha512": "5f977f8547e5cd74cf25914096d9fe8795934bd1d2611c876c685c6a47befc4320987df45ceb858f3f6c8e2fe2adce522ea80ceda96a394503b682f844433280",
+    "dest": "./offline-repository/io/ktor/ktor-events-jvm/3.4.3",
+    "dest-filename": "ktor-events-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-events-jvm/3.4.3/ktor-events-jvm-3.4.3.pom",
+    "sha512": "c4ce66c0657a46a66126298e607d15edeb172dcce8d52945d59fd3b67ff941c7c922d267b0ded3ac6b0a38bf8c566102f0f288d20c15acf4991cfa1ed0d3c8b9",
+    "dest": "./offline-repository/io/ktor/ktor-events-jvm/3.4.3",
+    "dest-filename": "ktor-events-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-events-jvm/3.5.1/ktor-events-jvm-3.5.1.jar",
     "sha512": "142a8ed22ab04b707b392f29435dd24a8f8d9ad2c5af07242367ac1db538ca767da5a67ebd4c678a1483ec0113b0c3821320334b1b26d4b0eac43aff2072ba27",
     "dest": "./offline-repository/io/ktor/ktor-events-jvm/3.5.1",
@@ -5157,6 +5234,27 @@
     "sha512": "34d2fb8ff9e04d98faaeefdb66b8e6bef986a452963248bac68c982fd3fe9e914945e134a747f794e24af5fcb6f50264b8c1d5578626b0b1e0112627a8e2170e",
     "dest": "./offline-repository/io/ktor/ktor-events-jvm/3.5.1",
     "dest-filename": "ktor-events-jvm-3.5.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-events/3.4.3/../../ktor-events-jvm/3.4.3/ktor-events-jvm-3.4.3.module",
+    "sha512": "5f977f8547e5cd74cf25914096d9fe8795934bd1d2611c876c685c6a47befc4320987df45ceb858f3f6c8e2fe2adce522ea80ceda96a394503b682f844433280",
+    "dest": "./offline-repository/io/ktor/ktor-events/3.4.3/../../ktor-events-jvm/3.4.3",
+    "dest-filename": "ktor-events-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-events/3.4.3/ktor-events-3.4.3.module",
+    "sha512": "6b4bd9494fc763890f59fddd47191c8254bc690cfbabf684c301eab4150d0e8bdc04fd4726846cda8fcc06ce660b7fd560b956b924e28d6293cce3741ac934e6",
+    "dest": "./offline-repository/io/ktor/ktor-events/3.4.3",
+    "dest-filename": "ktor-events-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-events/3.4.3/ktor-events-3.4.3.pom",
+    "sha512": "438e102693e26b6276966cc5b0ba963c345911cd30eb24b99cc1f14c55afda0267dd24b4cb9a2cafec927772b7e9330b5c3bbc5b1b20ac702dbe592d23d42a61",
+    "dest": "./offline-repository/io/ktor/ktor-events/3.4.3",
+    "dest-filename": "ktor-events-3.4.3.pom"
   },
   {
     "type": "file",
@@ -5188,6 +5286,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http-cio-jvm/3.4.3/ktor-http-cio-jvm-3.4.3.jar",
+    "sha512": "c220b0535821872792efc3ebfadaa5ef45ec56629799d20d449f978eea19ba9aea3228dd1c64f58f2837a38e2873161efdc9d29b88f266edcef9816f090309d8",
+    "dest": "./offline-repository/io/ktor/ktor-http-cio-jvm/3.4.3",
+    "dest-filename": "ktor-http-cio-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http-cio-jvm/3.4.3/ktor-http-cio-jvm-3.4.3.module",
+    "sha512": "8785b6c10ac8ee455b01673bd18c67fdd21ef3be4d1ff7c4564024c712beed706398c715c663adf4b5151261c7cb089b919e67d90f54b01e0d232792f741ecfb",
+    "dest": "./offline-repository/io/ktor/ktor-http-cio-jvm/3.4.3",
+    "dest-filename": "ktor-http-cio-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http-cio-jvm/3.4.3/ktor-http-cio-jvm-3.4.3.pom",
+    "sha512": "6527559ce25854808d09540f056567d4e870a19584a70ccfbefe1640c16c69bb5e32df8cbfbbc7e84fa09d3203ceaa6a91ceb48d09d35ac65e8f538cbd17f50c",
+    "dest": "./offline-repository/io/ktor/ktor-http-cio-jvm/3.4.3",
+    "dest-filename": "ktor-http-cio-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http-cio-jvm/3.5.1/ktor-http-cio-jvm-3.5.1.jar",
     "sha512": "a45011ad7b01646c2f06ec694b70b7670e2e7d3652a2d5de7e718ff2001e2c5ececc04d13ae785ec45b96ec5cd9849095e3248e86ca3d026b00a7d897fed263c",
     "dest": "./offline-repository/io/ktor/ktor-http-cio-jvm/3.5.1",
@@ -5206,6 +5325,27 @@
     "sha512": "5378881780955281d1220ab3afc4913c46191a9e93eea4e971aed6f75ade292ef569eeb330c79de718dae6597a0bdce3f65df4496bc2c95e1857bb6148036316",
     "dest": "./offline-repository/io/ktor/ktor-http-cio-jvm/3.5.1",
     "dest-filename": "ktor-http-cio-jvm-3.5.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http-cio/3.4.3/../../ktor-http-cio-jvm/3.4.3/ktor-http-cio-jvm-3.4.3.module",
+    "sha512": "8785b6c10ac8ee455b01673bd18c67fdd21ef3be4d1ff7c4564024c712beed706398c715c663adf4b5151261c7cb089b919e67d90f54b01e0d232792f741ecfb",
+    "dest": "./offline-repository/io/ktor/ktor-http-cio/3.4.3/../../ktor-http-cio-jvm/3.4.3",
+    "dest-filename": "ktor-http-cio-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http-cio/3.4.3/ktor-http-cio-3.4.3.module",
+    "sha512": "7f1aeebab944c3ffdb472bafb9f7f4e292093cc39c2d9745e2cdb0edb472fe6bbb489d5891ba4c9ecd2168ba0cf9850b51a3106ff2849a86121fdd06b69ec9cd",
+    "dest": "./offline-repository/io/ktor/ktor-http-cio/3.4.3",
+    "dest-filename": "ktor-http-cio-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http-cio/3.4.3/ktor-http-cio-3.4.3.pom",
+    "sha512": "02866f4564f9586696f9fff3240e602c0da328e5514199ec39e16214047674d67e2a4ee1ab3e1a9806f857170f8de8392f05e2c33e8ea7d6d965af9e724f4a4c",
+    "dest": "./offline-repository/io/ktor/ktor-http-cio/3.4.3",
+    "dest-filename": "ktor-http-cio-3.4.3.pom"
   },
   {
     "type": "file",
@@ -5237,6 +5377,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http-jvm/3.4.3/ktor-http-jvm-3.4.3.jar",
+    "sha512": "31f7269b139bc9552f8e8c5be351db2a6ad9920e43ec91f6512839f7c62b4ce3f92cc15721649ec77b693e3fa3cfcda27dcb216f36ce3c174f4c404073ff1095",
+    "dest": "./offline-repository/io/ktor/ktor-http-jvm/3.4.3",
+    "dest-filename": "ktor-http-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http-jvm/3.4.3/ktor-http-jvm-3.4.3.module",
+    "sha512": "c56a59699b6fa145a03ab0bfdbb68649cd377211dc54546e07eb21ee89f7911a255f8473cd6592d448764653e0c9a79a84c0f2f1a8496a7c3e14f643d0bb81e5",
+    "dest": "./offline-repository/io/ktor/ktor-http-jvm/3.4.3",
+    "dest-filename": "ktor-http-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http-jvm/3.4.3/ktor-http-jvm-3.4.3.pom",
+    "sha512": "da1233355331dc96b21bcb2489e193c882a14f74187e95ecf30984637f282d49190f925707120ff8e962b1c9a7ad2f3627bfe5105e61c520da4ba75b0d46f50c",
+    "dest": "./offline-repository/io/ktor/ktor-http-jvm/3.4.3",
+    "dest-filename": "ktor-http-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http-jvm/3.5.1/ktor-http-jvm-3.5.1.jar",
     "sha512": "09c45b6ab294c1afdf441efaa249a87f26404673b0a30b19b2d065d388a2ca84602f1b09aac185f6abe226a08428785c82993d3564739104507d1b4df459e8c9",
     "dest": "./offline-repository/io/ktor/ktor-http-jvm/3.5.1",
@@ -5255,6 +5416,27 @@
     "sha512": "5539c48377bf577c8fa53d8b18cb4ed38aa498adb988d53e45cccb3482843fba323d0fb3262ce404c462027828638e6799de0221a02b17cb97ad24a67ca8ee01",
     "dest": "./offline-repository/io/ktor/ktor-http-jvm/3.5.1",
     "dest-filename": "ktor-http-jvm-3.5.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http/3.4.3/../../ktor-http-jvm/3.4.3/ktor-http-jvm-3.4.3.module",
+    "sha512": "c56a59699b6fa145a03ab0bfdbb68649cd377211dc54546e07eb21ee89f7911a255f8473cd6592d448764653e0c9a79a84c0f2f1a8496a7c3e14f643d0bb81e5",
+    "dest": "./offline-repository/io/ktor/ktor-http/3.4.3/../../ktor-http-jvm/3.4.3",
+    "dest-filename": "ktor-http-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http/3.4.3/ktor-http-3.4.3.module",
+    "sha512": "731b4d1bfe5a9ea047abc67dc0abbe38f18429f8b11a61d65a1abb87a772a9aee788b7313aa16a5a39adb8e295ac4050b91245a228c936086b90d51eb4321099",
+    "dest": "./offline-repository/io/ktor/ktor-http/3.4.3",
+    "dest-filename": "ktor-http-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http/3.4.3/ktor-http-3.4.3.pom",
+    "sha512": "749e3c0d1e979cba78e4a7a5d208ace426fc2f50ee55522c288dc3201bd7859a919adbac95e8cd6ce6a00059871549a794c3c9f2eb146665704ad693f69d4f50",
+    "dest": "./offline-repository/io/ktor/ktor-http/3.4.3",
+    "dest-filename": "ktor-http-3.4.3.pom"
   },
   {
     "type": "file",
@@ -5286,6 +5468,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-io-jvm/3.4.3/ktor-io-jvm-3.4.3.jar",
+    "sha512": "04774eb7b227b3cbf5e48945a87a8014d68704941c6ec091ffcd0e79f993ea0a8ad84085005fed8f05204e94abaf9977edfddd34de1bf23cb02ff208ab987946",
+    "dest": "./offline-repository/io/ktor/ktor-io-jvm/3.4.3",
+    "dest-filename": "ktor-io-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-io-jvm/3.4.3/ktor-io-jvm-3.4.3.module",
+    "sha512": "2c9d40cea6aa57bfe336d477cf6045bc1f379919eeb8946925aa92d01f263e940b0fe56db99cfd658443395f55956ba97eafcb4ae97766ca55048d3cd35aa5f8",
+    "dest": "./offline-repository/io/ktor/ktor-io-jvm/3.4.3",
+    "dest-filename": "ktor-io-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-io-jvm/3.4.3/ktor-io-jvm-3.4.3.pom",
+    "sha512": "e397e422885fcbc57f17684d794c20b8e9191c194bb3be826a443b4982e0c2456353580abbd38a8867b6c0cef5c82fde63f32f9a3c60a4b9a47dc55e1488743b",
+    "dest": "./offline-repository/io/ktor/ktor-io-jvm/3.4.3",
+    "dest-filename": "ktor-io-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-io-jvm/3.5.1/ktor-io-jvm-3.5.1.jar",
     "sha512": "3a8c4fc510abc6d125e2a522c8b89bd8ef7b48e5ae6e48da3c14f82f289bd8f5614dd9832e961d32c1e005719fb77cd3fd705fc07cb1a8be45cc95f4770be8ca",
     "dest": "./offline-repository/io/ktor/ktor-io-jvm/3.5.1",
@@ -5304,6 +5507,27 @@
     "sha512": "5959f2a50e779380d03b20f79b21b1e29c838e530c6012e5be30dbd7c9735b6caa4f6974a9bbb5a69b332a39a1cfb22d941d8aa992042769d856a6e6cec3c391",
     "dest": "./offline-repository/io/ktor/ktor-io-jvm/3.5.1",
     "dest-filename": "ktor-io-jvm-3.5.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-io/3.4.3/../../ktor-io-jvm/3.4.3/ktor-io-jvm-3.4.3.module",
+    "sha512": "2c9d40cea6aa57bfe336d477cf6045bc1f379919eeb8946925aa92d01f263e940b0fe56db99cfd658443395f55956ba97eafcb4ae97766ca55048d3cd35aa5f8",
+    "dest": "./offline-repository/io/ktor/ktor-io/3.4.3/../../ktor-io-jvm/3.4.3",
+    "dest-filename": "ktor-io-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-io/3.4.3/ktor-io-3.4.3.module",
+    "sha512": "93c0c31c9f7e76b16f8dd6d856490e47bad196a942a997177ea814aa21bcf2a8adab32329f8ff796cbe6f038ea21bef925f1942aca6506d94b0dd32a234f617c",
+    "dest": "./offline-repository/io/ktor/ktor-io/3.4.3",
+    "dest-filename": "ktor-io-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-io/3.4.3/ktor-io-3.4.3.pom",
+    "sha512": "654e2c97ac7906c5788c5ffe73952869cfc7d4d30602a72c314fbf498479f543429e2184c868b083c9e87558c882b613a0cfbe65b208d86659ebc2e3f7addb6b",
+    "dest": "./offline-repository/io/ktor/ktor-io/3.4.3",
+    "dest-filename": "ktor-io-3.4.3.pom"
   },
   {
     "type": "file",
@@ -5335,6 +5559,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-network-jvm/3.4.3/ktor-network-jvm-3.4.3.jar",
+    "sha512": "11800c1a399af6e0aff597e85673ccc13aab8a38e42809947400a002b2db8daa6b02d51e2511ecc0f807130468bf55537852bffc9eb109fa2d6b992902dd5c6e",
+    "dest": "./offline-repository/io/ktor/ktor-network-jvm/3.4.3",
+    "dest-filename": "ktor-network-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-network-jvm/3.4.3/ktor-network-jvm-3.4.3.module",
+    "sha512": "57aa7a4f496291e241980a75e09b8e33338dc128b5845ac1fbb5a2a448d1268940d7886fd3917b2fee4642818dff92954dcbb1e1839c5eb0b45eb1204ef47894",
+    "dest": "./offline-repository/io/ktor/ktor-network-jvm/3.4.3",
+    "dest-filename": "ktor-network-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-network-jvm/3.4.3/ktor-network-jvm-3.4.3.pom",
+    "sha512": "5813104acad918a5d25abec524abbed961de0cd41b7df891346ba8420e61419492516ae6d54d95d8d5a27db99908575ad1bf9d8026200090fc5445543bfd45f4",
+    "dest": "./offline-repository/io/ktor/ktor-network-jvm/3.4.3",
+    "dest-filename": "ktor-network-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-network-jvm/3.5.1/ktor-network-jvm-3.5.1.jar",
     "sha512": "c757d3321ac91351ee98cc8421a87535924a96de6cdecb58405a4397a6790b8a372c0dc906b713831ba6b6f088317570109f48aa30ff430b51f73d07b9b666d5",
     "dest": "./offline-repository/io/ktor/ktor-network-jvm/3.5.1",
@@ -5353,6 +5598,27 @@
     "sha512": "fd85a6f4c611b6ffe6c7620e7762838277199de89d9634e68e6d152df23ad01d95f3d79d229fa296da0c88d3ba987de3cf280e15e0ed1ab47c9988a4c7be6428",
     "dest": "./offline-repository/io/ktor/ktor-network-jvm/3.5.1",
     "dest-filename": "ktor-network-jvm-3.5.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-network/3.4.3/../../ktor-network-jvm/3.4.3/ktor-network-jvm-3.4.3.module",
+    "sha512": "57aa7a4f496291e241980a75e09b8e33338dc128b5845ac1fbb5a2a448d1268940d7886fd3917b2fee4642818dff92954dcbb1e1839c5eb0b45eb1204ef47894",
+    "dest": "./offline-repository/io/ktor/ktor-network/3.4.3/../../ktor-network-jvm/3.4.3",
+    "dest-filename": "ktor-network-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-network/3.4.3/ktor-network-3.4.3.module",
+    "sha512": "959e17772952a4e826abc4c73e6cecd24acd53be2e57c857f9aceb275276fb6497a521176223b45b25bb103ae269eb8569f454c6014243a20eedce565a7cec96",
+    "dest": "./offline-repository/io/ktor/ktor-network/3.4.3",
+    "dest-filename": "ktor-network-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-network/3.4.3/ktor-network-3.4.3.pom",
+    "sha512": "1e80df1e808ec24c66a4fd1aa03740538872694c1af5c6d2ac05a4e83905da10c769e48277c83d51a4cf796a68ae12024852c6ef279ba9d29d4dd8243f1dd78e",
+    "dest": "./offline-repository/io/ktor/ktor-network/3.4.3",
+    "dest-filename": "ktor-network-3.4.3.pom"
   },
   {
     "type": "file",
@@ -5426,6 +5692,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-jvm/3.4.3/ktor-serialization-jvm-3.4.3.jar",
+    "sha512": "b387b57f5786c642532c8ee1187bdb1cfff26f869244729d29c12b37bb12ad3fb9af9706d87576bfda03892ba4751aacbc4f6b028d215b9b8ee1155994191e5b",
+    "dest": "./offline-repository/io/ktor/ktor-serialization-jvm/3.4.3",
+    "dest-filename": "ktor-serialization-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-jvm/3.4.3/ktor-serialization-jvm-3.4.3.module",
+    "sha512": "bbff27530abc297cafcf9526405ac66490fb61bbce92048ed76377e5d632d92a001e8ad7ecca0283c7ee97a4cf4533367f64e674f2f645da4fbfa4518f2cf156",
+    "dest": "./offline-repository/io/ktor/ktor-serialization-jvm/3.4.3",
+    "dest-filename": "ktor-serialization-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-jvm/3.4.3/ktor-serialization-jvm-3.4.3.pom",
+    "sha512": "07f2634d2a1af2ea85d3a11019bef52af3ab908c1423941300da424f7afa0d21fe0390cdc284730a52c9cd1ada1702530639600e94b06fea204b96e877762a92",
+    "dest": "./offline-repository/io/ktor/ktor-serialization-jvm/3.4.3",
+    "dest-filename": "ktor-serialization-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-jvm/3.5.1/ktor-serialization-jvm-3.5.1.jar",
     "sha512": "89ad540874a89b4fc55b4aa90aeb9267047044b9e02631e1f7e5fbb7bb45d1995d935c9e9c6dd26ad89f5d38a2627cfe81bf85d2cccda238d6bad1fcc2be1533",
     "dest": "./offline-repository/io/ktor/ktor-serialization-jvm/3.5.1",
@@ -5447,6 +5734,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx-json-jvm/3.4.3/ktor-serialization-kotlinx-json-jvm-3.4.3.jar",
+    "sha512": "2b5307c1b86b4fd0e24586201511b5cc7f8fd8d27b51c6e90dbd9aa699a04032320362ae98f083f1c93a1461073111bcf1e6cb8ee4986c5f8770b864573fb793",
+    "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx-json-jvm/3.4.3",
+    "dest-filename": "ktor-serialization-kotlinx-json-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx-json-jvm/3.4.3/ktor-serialization-kotlinx-json-jvm-3.4.3.module",
+    "sha512": "c6d516f3b71fc882bb92e3e06f6d81e5a5bdd13335c32a91ebfbf1374fbf6f5fd0b7c4d3587326b2e19419dde88e3508e26203fdebdd0a328e639a3b2e07bd6c",
+    "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx-json-jvm/3.4.3",
+    "dest-filename": "ktor-serialization-kotlinx-json-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx-json-jvm/3.4.3/ktor-serialization-kotlinx-json-jvm-3.4.3.pom",
+    "sha512": "e996493afb847b7bba218e36e9013ab9de87561537d162e5e924d5dbb92821ac858b27a55d94424ff48cdceab3aeb6055a790657d10b9f2affa917d259360dad",
+    "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx-json-jvm/3.4.3",
+    "dest-filename": "ktor-serialization-kotlinx-json-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx-json-jvm/3.5.1/ktor-serialization-kotlinx-json-jvm-3.5.1.jar",
     "sha512": "bb103a972b596039cc1cd808fd3aa02005dc29f7e490306588760d94ee67f8ff36b6901560ed18a2d3a1f17279d3d64659d6305b41154a6cded983cacd549a2f",
     "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx-json-jvm/3.5.1",
@@ -5465,6 +5773,27 @@
     "sha512": "110b69a7daf6d5d920d6b47de88d625ca0260e3f85fc36c346621934d9aefcd3e638d90d4a7d122741f8753bbd37172c16fb204bc84028554226f34dfd536715",
     "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx-json-jvm/3.5.1",
     "dest-filename": "ktor-serialization-kotlinx-json-jvm-3.5.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx-json/3.4.3/../../ktor-serialization-kotlinx-json-jvm/3.4.3/ktor-serialization-kotlinx-json-jvm-3.4.3.module",
+    "sha512": "c6d516f3b71fc882bb92e3e06f6d81e5a5bdd13335c32a91ebfbf1374fbf6f5fd0b7c4d3587326b2e19419dde88e3508e26203fdebdd0a328e639a3b2e07bd6c",
+    "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx-json/3.4.3/../../ktor-serialization-kotlinx-json-jvm/3.4.3",
+    "dest-filename": "ktor-serialization-kotlinx-json-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx-json/3.4.3/ktor-serialization-kotlinx-json-3.4.3.module",
+    "sha512": "89ed17a4b95005041a35c1e9eca48702e4087899207fcc22ee70c2884ef5d7a3c0103b9a3333a030f0a5adfde6658a07b02546786d40b5d41e665ac9f593a242",
+    "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx-json/3.4.3",
+    "dest-filename": "ktor-serialization-kotlinx-json-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx-json/3.4.3/ktor-serialization-kotlinx-json-3.4.3.pom",
+    "sha512": "3c46b38423be6e5d4ff3c6cd889e0e4bb27fab96a4ec08d8e49ff1e201216a258edb73717f51db219a1c04a09dff8a6a644baff74f2e6d82f46354d1081e9a1e",
+    "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx-json/3.4.3",
+    "dest-filename": "ktor-serialization-kotlinx-json-3.4.3.pom"
   },
   {
     "type": "file",
@@ -5496,6 +5825,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx-jvm/3.4.3/ktor-serialization-kotlinx-jvm-3.4.3.jar",
+    "sha512": "60fe7dcd14a92a8402e0e6fd027face4379d9cd22751efcfdb8d7098d38e189ea0536f57c1aaa50c36817fc111486053080760897dcf47f8447740c1a815d6e6",
+    "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx-jvm/3.4.3",
+    "dest-filename": "ktor-serialization-kotlinx-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx-jvm/3.4.3/ktor-serialization-kotlinx-jvm-3.4.3.module",
+    "sha512": "53b2e4e77177d5af25c9a3b6319770d99bfd89bc305270c934f5ccd21b46a610446a850ee0846bb2e8352f3c7865f37010248bc1627c119dc62c25722eaf8878",
+    "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx-jvm/3.4.3",
+    "dest-filename": "ktor-serialization-kotlinx-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx-jvm/3.4.3/ktor-serialization-kotlinx-jvm-3.4.3.pom",
+    "sha512": "87332e9b3a08a81d9c85a2b7c342b3f9780577d4f13ad1e0b1ae945727e881308c332240eed57edaccf4f1281fac9bb65603d580105d571b898949a89e8f8c0d",
+    "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx-jvm/3.4.3",
+    "dest-filename": "ktor-serialization-kotlinx-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx-jvm/3.5.1/ktor-serialization-kotlinx-jvm-3.5.1.jar",
     "sha512": "6bcc8269c3b9eb47b7f068687a21840afe78fd3fd49c6bd59e3f96900f9bd952e2ae620582413b6d454cf09346a4ef15dcd20613dd33a94c33c7080070762d1d",
     "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx-jvm/3.5.1",
@@ -5514,6 +5864,27 @@
     "sha512": "a2cdc7d86653c6e5065860993e778213c14d25a71702493829e5b123de1620f8abd25eb99408b6024583a3bb7f7464622e7a4661c73694caa3e2808d92c10ed5",
     "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx-jvm/3.5.1",
     "dest-filename": "ktor-serialization-kotlinx-jvm-3.5.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx/3.4.3/../../ktor-serialization-kotlinx-jvm/3.4.3/ktor-serialization-kotlinx-jvm-3.4.3.module",
+    "sha512": "53b2e4e77177d5af25c9a3b6319770d99bfd89bc305270c934f5ccd21b46a610446a850ee0846bb2e8352f3c7865f37010248bc1627c119dc62c25722eaf8878",
+    "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx/3.4.3/../../ktor-serialization-kotlinx-jvm/3.4.3",
+    "dest-filename": "ktor-serialization-kotlinx-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx/3.4.3/ktor-serialization-kotlinx-3.4.3.module",
+    "sha512": "62efc453b7b0db0a2791e0128d6a007dceed509c115a9b55f3437ff651e2e80db016a0d9faa04baa562b972475ccd4d2d29998df4a854f935ed91d4f1ed13871",
+    "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx/3.4.3",
+    "dest-filename": "ktor-serialization-kotlinx-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx/3.4.3/ktor-serialization-kotlinx-3.4.3.pom",
+    "sha512": "ca99cbf4e0eed0656721e72be259ebc765a0eaeb5496d3d5acde81096cbee8b91059c12f83db7521ce315737f73c6a0139ec076894625cb4d65958f026662b69",
+    "dest": "./offline-repository/io/ktor/ktor-serialization-kotlinx/3.4.3",
+    "dest-filename": "ktor-serialization-kotlinx-3.4.3.pom"
   },
   {
     "type": "file",
@@ -5545,6 +5916,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization/3.4.3/../../ktor-serialization-jvm/3.4.3/ktor-serialization-jvm-3.4.3.module",
+    "sha512": "bbff27530abc297cafcf9526405ac66490fb61bbce92048ed76377e5d632d92a001e8ad7ecca0283c7ee97a4cf4533367f64e674f2f645da4fbfa4518f2cf156",
+    "dest": "./offline-repository/io/ktor/ktor-serialization/3.4.3/../../ktor-serialization-jvm/3.4.3",
+    "dest-filename": "ktor-serialization-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization/3.4.3/ktor-serialization-3.4.3.module",
+    "sha512": "b3b8f359c28714a5f7add81053dcf2fb5dca1081ecbba0d88247fd6c46fbd76bb062beab481bcb95356972bd9d1560261190468e9c15b443567e2f258be3cdfe",
+    "dest": "./offline-repository/io/ktor/ktor-serialization/3.4.3",
+    "dest-filename": "ktor-serialization-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization/3.4.3/ktor-serialization-3.4.3.pom",
+    "sha512": "da33e4e600d805936041e2ea200499fb4e1ed7d10a71aa9e514f7e95ba1400f88a4b5984cb32ebb89520c4e7bba450157d0e1fb84c2e7e7c29c389b7e4a9c872",
+    "dest": "./offline-repository/io/ktor/ktor-serialization/3.4.3",
+    "dest-filename": "ktor-serialization-3.4.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization/3.5.1/../../ktor-serialization-jvm/3.5.1/ktor-serialization-jvm-3.5.1.module",
     "sha512": "a48b58eedc9a2f29c6d4e465ae3eca1618c5f86f553e7d5541c0a82d544836f45a8d6b7840449c8ea574d00e40a578da5512b2e0a1f0309aa9a8c97d3b7a267b",
     "dest": "./offline-repository/io/ktor/ktor-serialization/3.5.1/../../ktor-serialization-jvm/3.5.1",
@@ -5573,6 +5965,195 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-content-negotiation-jvm/3.4.3/ktor-server-content-negotiation-jvm-3.4.3.jar",
+    "sha512": "decda92f557d5502b3f2cc1142183250508ff3f1a81d88578e7834f0f594bf5685071526800f4998a8aac5d84741ed71a65b883063505cdb0c95351adc237d3b",
+    "dest": "./offline-repository/io/ktor/ktor-server-content-negotiation-jvm/3.4.3",
+    "dest-filename": "ktor-server-content-negotiation-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-content-negotiation-jvm/3.4.3/ktor-server-content-negotiation-jvm-3.4.3.module",
+    "sha512": "c99135b9199c919daecca096c6fe47c9da0786e2a8a72b7be2bd4fe43d0b3c719abb1c3cef18a404f88d67553842a9476a4b72b58d2c8462902783a934d69324",
+    "dest": "./offline-repository/io/ktor/ktor-server-content-negotiation-jvm/3.4.3",
+    "dest-filename": "ktor-server-content-negotiation-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-content-negotiation-jvm/3.4.3/ktor-server-content-negotiation-jvm-3.4.3.pom",
+    "sha512": "0a6a001cb5b438f088d271d82b6868318a558dbf29338299724879f3fc98cf6e9ed0c5878a1a982592f03ada76f3a6d13c6867ca6b268f5232e9927332f66161",
+    "dest": "./offline-repository/io/ktor/ktor-server-content-negotiation-jvm/3.4.3",
+    "dest-filename": "ktor-server-content-negotiation-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-content-negotiation/3.4.3/../../ktor-server-content-negotiation-jvm/3.4.3/ktor-server-content-negotiation-jvm-3.4.3.module",
+    "sha512": "c99135b9199c919daecca096c6fe47c9da0786e2a8a72b7be2bd4fe43d0b3c719abb1c3cef18a404f88d67553842a9476a4b72b58d2c8462902783a934d69324",
+    "dest": "./offline-repository/io/ktor/ktor-server-content-negotiation/3.4.3/../../ktor-server-content-negotiation-jvm/3.4.3",
+    "dest-filename": "ktor-server-content-negotiation-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-content-negotiation/3.4.3/ktor-server-content-negotiation-3.4.3.module",
+    "sha512": "48b7bd3cbdf446924dd88d53a84dd58c31df6ad44f2fc811e69d6bb784a85bf2dd2a99f4d9fbee95eafc49a744a431acf65754405191fd49b1861f0ab801aef9",
+    "dest": "./offline-repository/io/ktor/ktor-server-content-negotiation/3.4.3",
+    "dest-filename": "ktor-server-content-negotiation-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-content-negotiation/3.4.3/ktor-server-content-negotiation-3.4.3.pom",
+    "sha512": "00619f86bdac6d08885856273de81ce7b43ed4b0ffdc300f8e070892458dc3152afd55dddcf774bb541b41ebae35056877d1e6733f2384d6e7499c93d0eeeba7",
+    "dest": "./offline-repository/io/ktor/ktor-server-content-negotiation/3.4.3",
+    "dest-filename": "ktor-server-content-negotiation-3.4.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-core-jvm/3.4.3/ktor-server-core-jvm-3.4.3.jar",
+    "sha512": "32d116617110adb2f0f21029b120044fa79dd4f7bfa751751cb598b5cf27d5b4ccada75e915a0bcc3171a23fbda321c43f676143c805735c35daca1ef54e8295",
+    "dest": "./offline-repository/io/ktor/ktor-server-core-jvm/3.4.3",
+    "dest-filename": "ktor-server-core-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-core-jvm/3.4.3/ktor-server-core-jvm-3.4.3.module",
+    "sha512": "1743b059ae06e1014f10825bbe990659f1665a185bd2b67bc44372a490bcb4d10cb1524838ec26cbf7b1ac4d5da399ff0656bd1385d682176cf34d88b4744a3e",
+    "dest": "./offline-repository/io/ktor/ktor-server-core-jvm/3.4.3",
+    "dest-filename": "ktor-server-core-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-core-jvm/3.4.3/ktor-server-core-jvm-3.4.3.pom",
+    "sha512": "2fcb4492f25ffeb50cbd4959fd652864add30199dd7ca1be312e6d25dd99a3658893c49f843e51efc53c3da7c7f4bfc1a50084003b603f069abadce8c90578a4",
+    "dest": "./offline-repository/io/ktor/ktor-server-core-jvm/3.4.3",
+    "dest-filename": "ktor-server-core-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-core/3.4.3/../../ktor-server-core-jvm/3.4.3/ktor-server-core-jvm-3.4.3.module",
+    "sha512": "1743b059ae06e1014f10825bbe990659f1665a185bd2b67bc44372a490bcb4d10cb1524838ec26cbf7b1ac4d5da399ff0656bd1385d682176cf34d88b4744a3e",
+    "dest": "./offline-repository/io/ktor/ktor-server-core/3.4.3/../../ktor-server-core-jvm/3.4.3",
+    "dest-filename": "ktor-server-core-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-core/3.4.3/ktor-server-core-3.4.3.module",
+    "sha512": "1ad7a00e2c99d29503a18d8c1e713f748d7e5909c06b0e1bc0f90b163471992d9b889208789ff960c86b94855c86eb859d20902768ae5c23683354ebcea2b384",
+    "dest": "./offline-repository/io/ktor/ktor-server-core/3.4.3",
+    "dest-filename": "ktor-server-core-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-core/3.4.3/ktor-server-core-3.4.3.pom",
+    "sha512": "f1321829074abcb8208aa827ed4a76282c89dbb7a61017d0d43fcb7618123a1a60ec81c6b8515ade7717fb32a17310431b9764a3c6487f29dd21141886be90b0",
+    "dest": "./offline-repository/io/ktor/ktor-server-core/3.4.3",
+    "dest-filename": "ktor-server-core-3.4.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-sse-jvm/3.4.3/ktor-server-sse-jvm-3.4.3.jar",
+    "sha512": "9325fcd428a37b79ca5145c98f4e725e1913ab2405232d1936b8a0c94dc4b1fb42f3872c55064066c0452fdf9ad6cb7703f4b2b30d1bac94e6a81eed057b20c9",
+    "dest": "./offline-repository/io/ktor/ktor-server-sse-jvm/3.4.3",
+    "dest-filename": "ktor-server-sse-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-sse-jvm/3.4.3/ktor-server-sse-jvm-3.4.3.module",
+    "sha512": "afff7ecef0f8166403b409c38196f76170953e58960e341d0b0cd6f9de4388191103e1e685652969a0f82d9b9efb526af63d8d1590ba28d10c65de04263162f8",
+    "dest": "./offline-repository/io/ktor/ktor-server-sse-jvm/3.4.3",
+    "dest-filename": "ktor-server-sse-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-sse-jvm/3.4.3/ktor-server-sse-jvm-3.4.3.pom",
+    "sha512": "8e2aedcd8c9fdd4be6f90662e430f80879e8ee63fee33bb34ee29c391d8a3c689e6fceeef3d594732a13597b9a0632eb296159269c03ddfa01e121bf7faacf95",
+    "dest": "./offline-repository/io/ktor/ktor-server-sse-jvm/3.4.3",
+    "dest-filename": "ktor-server-sse-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-sse/3.4.3/../../ktor-server-sse-jvm/3.4.3/ktor-server-sse-jvm-3.4.3.module",
+    "sha512": "afff7ecef0f8166403b409c38196f76170953e58960e341d0b0cd6f9de4388191103e1e685652969a0f82d9b9efb526af63d8d1590ba28d10c65de04263162f8",
+    "dest": "./offline-repository/io/ktor/ktor-server-sse/3.4.3/../../ktor-server-sse-jvm/3.4.3",
+    "dest-filename": "ktor-server-sse-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-sse/3.4.3/ktor-server-sse-3.4.3.module",
+    "sha512": "2355a01b7c3aad85e72c43aeee0ff1bb12bce4e2522727d0a994413ee9a6c4648fb41a2f91c46aef48fedc1a88e010295c7e4c457955a7cdb6d73f3a365fffae",
+    "dest": "./offline-repository/io/ktor/ktor-server-sse/3.4.3",
+    "dest-filename": "ktor-server-sse-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-sse/3.4.3/ktor-server-sse-3.4.3.pom",
+    "sha512": "ae9277e83cbb506b24e3ceb59b974065a59ff533ddeefcf67bd2dfa8ac83697871f2697e912d5dd6a8536dbb0da982942dd458f28b4c7c6a32a623d264e54b3a",
+    "dest": "./offline-repository/io/ktor/ktor-server-sse/3.4.3",
+    "dest-filename": "ktor-server-sse-3.4.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-websockets-jvm/3.4.3/ktor-server-websockets-jvm-3.4.3.jar",
+    "sha512": "f7d8078a073eb27b339914bf6654627e20b045d2d462f9a1d9d6bc0ed635378c9582645f3afda6778d6741652b8131f9a28c9c50519df6f90863606bbbc9b099",
+    "dest": "./offline-repository/io/ktor/ktor-server-websockets-jvm/3.4.3",
+    "dest-filename": "ktor-server-websockets-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-websockets-jvm/3.4.3/ktor-server-websockets-jvm-3.4.3.module",
+    "sha512": "b775d7a2e1d9f1e3fce1d4407e8141e251fe003f4c8fe5cdb671499c713852e75b6a5ca6fa1547edab219f5560195762985eba9920166b581c1fd5fe2746ba6f",
+    "dest": "./offline-repository/io/ktor/ktor-server-websockets-jvm/3.4.3",
+    "dest-filename": "ktor-server-websockets-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-websockets-jvm/3.4.3/ktor-server-websockets-jvm-3.4.3.pom",
+    "sha512": "47c23f455395fcb50344489bbc3ed7dfed4341e508985477112680b34d0d745b4ea09ad09044335344dd0fb777582ae0a588d3899ab1fa6847b3f4f67723a52b",
+    "dest": "./offline-repository/io/ktor/ktor-server-websockets-jvm/3.4.3",
+    "dest-filename": "ktor-server-websockets-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-websockets/3.4.3/../../ktor-server-websockets-jvm/3.4.3/ktor-server-websockets-jvm-3.4.3.module",
+    "sha512": "b775d7a2e1d9f1e3fce1d4407e8141e251fe003f4c8fe5cdb671499c713852e75b6a5ca6fa1547edab219f5560195762985eba9920166b581c1fd5fe2746ba6f",
+    "dest": "./offline-repository/io/ktor/ktor-server-websockets/3.4.3/../../ktor-server-websockets-jvm/3.4.3",
+    "dest-filename": "ktor-server-websockets-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-websockets/3.4.3/ktor-server-websockets-3.4.3.module",
+    "sha512": "93b08b37f1aec2a27df74fa17841ba030337ef45db3b45702bc5dfb927dd2ee45865fdb779b87f1afe72b2867b1bb11851b7345e8cb0f5313b56e2a489e1d94d",
+    "dest": "./offline-repository/io/ktor/ktor-server-websockets/3.4.3",
+    "dest-filename": "ktor-server-websockets-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-server-websockets/3.4.3/ktor-server-websockets-3.4.3.pom",
+    "sha512": "007c28240eca215e788c231192e404828fcb94260073aef4413b4d44c78864cfae64000325b3d9dc0079decba6f315ffcfb4b3c79a9953a61ff3e0f7bca6325c",
+    "dest": "./offline-repository/io/ktor/ktor-server-websockets/3.4.3",
+    "dest-filename": "ktor-server-websockets-3.4.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-sse-jvm/3.4.3/ktor-sse-jvm-3.4.3.jar",
+    "sha512": "a6f7e938472da6c53b34414636fc587a3bed6390e58fdf0005bbf39512887d5a23a758f82bf74a16a9a9244e4c028062a9f1021b7dc9a138b83f70b481fb439d",
+    "dest": "./offline-repository/io/ktor/ktor-sse-jvm/3.4.3",
+    "dest-filename": "ktor-sse-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-sse-jvm/3.4.3/ktor-sse-jvm-3.4.3.module",
+    "sha512": "0268962c22cc49320464babf9b3ee1e137d96b47df708177646e5836ae631f33a274c010211903df047c5c310298e97311cf386ac0ea96d05d8babf7e3795f4a",
+    "dest": "./offline-repository/io/ktor/ktor-sse-jvm/3.4.3",
+    "dest-filename": "ktor-sse-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-sse-jvm/3.4.3/ktor-sse-jvm-3.4.3.pom",
+    "sha512": "b6470e22830fd041f3a8d99a590e31cce18a3d01d675b045fd8513162d4db04c7decca4ede8faa69db5f6f23ed0c27846e17f7fbad6f106502c41f118a39cf2d",
+    "dest": "./offline-repository/io/ktor/ktor-sse-jvm/3.4.3",
+    "dest-filename": "ktor-sse-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-sse-jvm/3.5.1/ktor-sse-jvm-3.5.1.jar",
     "sha512": "ea3558905e7d111b1a3241b25d1a2d7f8f967a3828adcfb939174c8f7d6883d50910d876813ba65aeaf3ebcc41add263bbc970780fc54ab0f03cf4410847c582",
     "dest": "./offline-repository/io/ktor/ktor-sse-jvm/3.5.1",
@@ -5591,6 +6172,27 @@
     "sha512": "a96a4a13bee080cdefadf17704fb9ea87443d684e86f3100bfa53f18ef24898a26f1ef3c605014f8bc81c716f3122f2fc24c7ce2c193efc26a275d3f45a6d070",
     "dest": "./offline-repository/io/ktor/ktor-sse-jvm/3.5.1",
     "dest-filename": "ktor-sse-jvm-3.5.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-sse/3.4.3/../../ktor-sse-jvm/3.4.3/ktor-sse-jvm-3.4.3.module",
+    "sha512": "0268962c22cc49320464babf9b3ee1e137d96b47df708177646e5836ae631f33a274c010211903df047c5c310298e97311cf386ac0ea96d05d8babf7e3795f4a",
+    "dest": "./offline-repository/io/ktor/ktor-sse/3.4.3/../../ktor-sse-jvm/3.4.3",
+    "dest-filename": "ktor-sse-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-sse/3.4.3/ktor-sse-3.4.3.module",
+    "sha512": "7c7c42077cf2fa0085a88e113b666e5dd64431247c941cb29b27b969535307a74f15241b3b765daa1308e75eb85254116f8e87a202ecbed7418229eb9034ca49",
+    "dest": "./offline-repository/io/ktor/ktor-sse/3.4.3",
+    "dest-filename": "ktor-sse-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-sse/3.4.3/ktor-sse-3.4.3.pom",
+    "sha512": "3e014824a4b8f5d4f461e31b464cbbe9ebecdee7c89b65249f732e89de0ccd2facadf5bc28395d895eaf0c2383401ec338bba0868920bca8cca68ccfb5fc90bb",
+    "dest": "./offline-repository/io/ktor/ktor-sse/3.4.3",
+    "dest-filename": "ktor-sse-3.4.3.pom"
   },
   {
     "type": "file",
@@ -5622,6 +6224,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-utils-jvm/3.4.3/ktor-utils-jvm-3.4.3.jar",
+    "sha512": "18a6bd6a16b32d45c694b08f1c2793aa91411841e9711ebb8fded7ec81901859bdfeed2a20e90fd6a166014b3673fd44a7eb643fcd137245451a8b94dc8770a9",
+    "dest": "./offline-repository/io/ktor/ktor-utils-jvm/3.4.3",
+    "dest-filename": "ktor-utils-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-utils-jvm/3.4.3/ktor-utils-jvm-3.4.3.module",
+    "sha512": "97f166804c56ec25cdb8c8a0846c5fdddb8a2e0c60639d4c670aef3e6b28dd188ce474751f3d7af6231aeb0cf1b5967ebe32cf3c2b1118a48010669c831470c1",
+    "dest": "./offline-repository/io/ktor/ktor-utils-jvm/3.4.3",
+    "dest-filename": "ktor-utils-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-utils-jvm/3.4.3/ktor-utils-jvm-3.4.3.pom",
+    "sha512": "a9a9f03021fc719654d41861c5c8d91da07cd3aaec032ec3c16355b7d17067adec310387fba8021093d2e82e61d879c0960206345c869c16dec87e5c0b4d6f93",
+    "dest": "./offline-repository/io/ktor/ktor-utils-jvm/3.4.3",
+    "dest-filename": "ktor-utils-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-utils-jvm/3.5.1/ktor-utils-jvm-3.5.1.jar",
     "sha512": "f3fa55a696804912f1f961c8e56cffaf0e069a79219944a7a8590a6ea128793e6a8d820283bf63b3296454cb475043e9d91205b1c08ef901910d4230314b7470",
     "dest": "./offline-repository/io/ktor/ktor-utils-jvm/3.5.1",
@@ -5640,6 +6263,27 @@
     "sha512": "4fa7f227d91cca207f69fddc40d0e9ed57ecd5c88d8c2ad18bcc9c95abe49351b8f658e258c3274e768f167bd2a1ce463e55363fc52e559adb2e145246f8dc10",
     "dest": "./offline-repository/io/ktor/ktor-utils-jvm/3.5.1",
     "dest-filename": "ktor-utils-jvm-3.5.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-utils/3.4.3/../../ktor-utils-jvm/3.4.3/ktor-utils-jvm-3.4.3.module",
+    "sha512": "97f166804c56ec25cdb8c8a0846c5fdddb8a2e0c60639d4c670aef3e6b28dd188ce474751f3d7af6231aeb0cf1b5967ebe32cf3c2b1118a48010669c831470c1",
+    "dest": "./offline-repository/io/ktor/ktor-utils/3.4.3/../../ktor-utils-jvm/3.4.3",
+    "dest-filename": "ktor-utils-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-utils/3.4.3/ktor-utils-3.4.3.module",
+    "sha512": "097c165dbafa31165bb52bf4e631a1087b2b58ae69a72c85b8c49b1e36f7c317bd31925eadcdcb51e1501fddfbba79119a913c1822ebbfb4a6938444e8b5f575",
+    "dest": "./offline-repository/io/ktor/ktor-utils/3.4.3",
+    "dest-filename": "ktor-utils-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-utils/3.4.3/ktor-utils-3.4.3.pom",
+    "sha512": "6c30597031921944ef92630e869d5bac8a420568dc93cd5b0c1a8859fe6b590c9d63ecdfa0514b5a94625edde909c6290f986d75689e53fdacb0a4cc3ca49a40",
+    "dest": "./offline-repository/io/ktor/ktor-utils/3.4.3",
+    "dest-filename": "ktor-utils-3.4.3.pom"
   },
   {
     "type": "file",
@@ -5671,6 +6315,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websocket-serialization-jvm/3.4.3/ktor-websocket-serialization-jvm-3.4.3.jar",
+    "sha512": "7c9867ce64420aa0b045df57e9fe718850c65ef2cea484ac1591d9cfbf1f4d69b29ef1478d11257be4667402aceb4a9de4306208ffef471064970223a5dfee68",
+    "dest": "./offline-repository/io/ktor/ktor-websocket-serialization-jvm/3.4.3",
+    "dest-filename": "ktor-websocket-serialization-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websocket-serialization-jvm/3.4.3/ktor-websocket-serialization-jvm-3.4.3.module",
+    "sha512": "e8875262fe36e77df87ee969e460f08f406f7bc73863d42a4ddc348e9ba23687d60608b10845efa42f90e20cf25f2937c0ecb7254419ecae218daec39db36802",
+    "dest": "./offline-repository/io/ktor/ktor-websocket-serialization-jvm/3.4.3",
+    "dest-filename": "ktor-websocket-serialization-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websocket-serialization-jvm/3.4.3/ktor-websocket-serialization-jvm-3.4.3.pom",
+    "sha512": "22ddfc590c7bdfa1351de235111b59ae657c3061830c400c78e73347e26080618ad5dbafde75921545d508906e1fdce13e18f1da4acbd6609b0caf2b0f15c6fe",
+    "dest": "./offline-repository/io/ktor/ktor-websocket-serialization-jvm/3.4.3",
+    "dest-filename": "ktor-websocket-serialization-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websocket-serialization-jvm/3.5.1/ktor-websocket-serialization-jvm-3.5.1.jar",
     "sha512": "77348dae8866eeb7c61aa745084208d82e387764262297fa47f11083f7399571a93c35abe255d5d7b9338bc633f2a09e36c5942e9890d18803d5ad4e267ceffe",
     "dest": "./offline-repository/io/ktor/ktor-websocket-serialization-jvm/3.5.1",
@@ -5689,6 +6354,27 @@
     "sha512": "2924479eb3e68d4899703f1fba6d12c1dc6c4b35599fced8f716ddb74d666eb4b1e345835d1c2971ce9e5b891008eca463b807ac5323fce43b129fdd05315005",
     "dest": "./offline-repository/io/ktor/ktor-websocket-serialization-jvm/3.5.1",
     "dest-filename": "ktor-websocket-serialization-jvm-3.5.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websocket-serialization/3.4.3/../../ktor-websocket-serialization-jvm/3.4.3/ktor-websocket-serialization-jvm-3.4.3.module",
+    "sha512": "e8875262fe36e77df87ee969e460f08f406f7bc73863d42a4ddc348e9ba23687d60608b10845efa42f90e20cf25f2937c0ecb7254419ecae218daec39db36802",
+    "dest": "./offline-repository/io/ktor/ktor-websocket-serialization/3.4.3/../../ktor-websocket-serialization-jvm/3.4.3",
+    "dest-filename": "ktor-websocket-serialization-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websocket-serialization/3.4.3/ktor-websocket-serialization-3.4.3.module",
+    "sha512": "943ccbf3b79f2d8c1517a600a65a6a90e11afbe5723dc349819da874f60b531f6f7fe2bcf0833301aa0615736d2b48a49a027bf59840579eec52eb84839a3c89",
+    "dest": "./offline-repository/io/ktor/ktor-websocket-serialization/3.4.3",
+    "dest-filename": "ktor-websocket-serialization-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websocket-serialization/3.4.3/ktor-websocket-serialization-3.4.3.pom",
+    "sha512": "e62048f9003f9850610d6fffa83a65a8c0db1b0441eccfbaf6fcec8c2da248cddcf63f6f833dffd93dfd4155c53b0a04988267fe37f216e4657898e92afed361",
+    "dest": "./offline-repository/io/ktor/ktor-websocket-serialization/3.4.3",
+    "dest-filename": "ktor-websocket-serialization-3.4.3.pom"
   },
   {
     "type": "file",
@@ -5720,6 +6406,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websockets-jvm/3.4.3/ktor-websockets-jvm-3.4.3.jar",
+    "sha512": "93f7d25634228e4f89d5dfa4861f573fc619ba1a3e2bf3622481ed999bc1ec8ea1c3c97bffc6dd8c0d3d95a1fb10aa25e283151ba3d2d851f2fbe8869dd31e64",
+    "dest": "./offline-repository/io/ktor/ktor-websockets-jvm/3.4.3",
+    "dest-filename": "ktor-websockets-jvm-3.4.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websockets-jvm/3.4.3/ktor-websockets-jvm-3.4.3.module",
+    "sha512": "6cd2ddb28cb1b1c9ae0c79956d2c64def76788bcd7faf3ef6bc9aae0eaa4dceb3c8184c5de820801c145c523883254eefc32c88ddcfa4b08bf76fbeb2c2f0f44",
+    "dest": "./offline-repository/io/ktor/ktor-websockets-jvm/3.4.3",
+    "dest-filename": "ktor-websockets-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websockets-jvm/3.4.3/ktor-websockets-jvm-3.4.3.pom",
+    "sha512": "b2b5617bd5f5a7fae0d65006a964c3baafc363cfdff438e693bceefc228d72df0e1595d3e4d7b75a677af6185ac4b80f575adeccbb0e9f77f335bb88e204a4cb",
+    "dest": "./offline-repository/io/ktor/ktor-websockets-jvm/3.4.3",
+    "dest-filename": "ktor-websockets-jvm-3.4.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websockets-jvm/3.5.1/ktor-websockets-jvm-3.5.1.jar",
     "sha512": "edb356fabb76dc6dbed72b195716331369ec613f424fe285c6fe6ddccc469980d0f52f6f09b2713d1cfbd87bcccd4e054c70d5e99091020d31ca0a2d6c282c66",
     "dest": "./offline-repository/io/ktor/ktor-websockets-jvm/3.5.1",
@@ -5738,6 +6445,27 @@
     "sha512": "8da56152eeb79b83b8a7a8dc4b08e1c1a339ec4e0a10c84953e6a567cbac7e7b7cb3735e04d795722043d0a2cf83e00efdb4bce53693f3732c2416569187b6f8",
     "dest": "./offline-repository/io/ktor/ktor-websockets-jvm/3.5.1",
     "dest-filename": "ktor-websockets-jvm-3.5.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websockets/3.4.3/../../ktor-websockets-jvm/3.4.3/ktor-websockets-jvm-3.4.3.module",
+    "sha512": "6cd2ddb28cb1b1c9ae0c79956d2c64def76788bcd7faf3ef6bc9aae0eaa4dceb3c8184c5de820801c145c523883254eefc32c88ddcfa4b08bf76fbeb2c2f0f44",
+    "dest": "./offline-repository/io/ktor/ktor-websockets/3.4.3/../../ktor-websockets-jvm/3.4.3",
+    "dest-filename": "ktor-websockets-jvm-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websockets/3.4.3/ktor-websockets-3.4.3.module",
+    "sha512": "fc397d9ef869f40952a4693635284e355227912c5806a5383e1259f577e68cc00c8decef42b61873735257e8d318ee544dba359ef330ce4f797f3cacd6e3a448",
+    "dest": "./offline-repository/io/ktor/ktor-websockets/3.4.3",
+    "dest-filename": "ktor-websockets-3.4.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websockets/3.4.3/ktor-websockets-3.4.3.pom",
+    "sha512": "03642a3a879031cf154a9d26e334e46342700a92630c5f69716a0317ca98f4982e2f4d05810628cbeb7d56ff8935c6954148a796454d403d4d90a128f3bedd87",
+    "dest": "./offline-repository/io/ktor/ktor-websockets/3.4.3",
+    "dest-filename": "ktor-websockets-3.4.3.pom"
   },
   {
     "type": "file",
@@ -5766,6 +6494,90 @@
     "sha512": "b53f5f3c4b6828dc486fc180c790e8a998f09b577a246de096befdee6ba305a62c1ce46c34f465daf24285670620a2cf846ff05faf621c925144e713b9ae7ba8",
     "dest": "./offline-repository/io/ktor/ktor-websockets/3.5.1",
     "dest-filename": "ktor-websockets-3.5.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/modelcontextprotocol/kotlin-sdk-core-jvm/0.13.0/kotlin-sdk-core-jvm-0.13.0.jar",
+    "sha512": "a74059526cf0dac59a27d8b79c6ab3e4f854c408760d8f7ae080f1c1361af000a6174e3e6e592a04e0369f19e752735f3c5905248d60ee3c8f5052c25d12d036",
+    "dest": "./offline-repository/io/modelcontextprotocol/kotlin-sdk-core-jvm/0.13.0",
+    "dest-filename": "kotlin-sdk-core-jvm-0.13.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/modelcontextprotocol/kotlin-sdk-core-jvm/0.13.0/kotlin-sdk-core-jvm-0.13.0.module",
+    "sha512": "9091cd21b1579c410c32f8fd72ed19af0f6b5f217e9a37de3f67ced46bea98cdb790aef124cb9d7f7ea5a8fd46ec3b1683e2d18f1fb3bac0672efa6feb225ab4",
+    "dest": "./offline-repository/io/modelcontextprotocol/kotlin-sdk-core-jvm/0.13.0",
+    "dest-filename": "kotlin-sdk-core-jvm-0.13.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/modelcontextprotocol/kotlin-sdk-core-jvm/0.13.0/kotlin-sdk-core-jvm-0.13.0.pom",
+    "sha512": "656a1fff9cc76dba8e373db2014f0bd74711e8231cba05eda3e058960652cbed094d99c3dee98b9692a0ba6f3b9233b130bba85c7a324bd937e5da922186dee7",
+    "dest": "./offline-repository/io/modelcontextprotocol/kotlin-sdk-core-jvm/0.13.0",
+    "dest-filename": "kotlin-sdk-core-jvm-0.13.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/modelcontextprotocol/kotlin-sdk-core/0.13.0/../../kotlin-sdk-core-jvm/0.13.0/kotlin-sdk-core-jvm-0.13.0.module",
+    "sha512": "9091cd21b1579c410c32f8fd72ed19af0f6b5f217e9a37de3f67ced46bea98cdb790aef124cb9d7f7ea5a8fd46ec3b1683e2d18f1fb3bac0672efa6feb225ab4",
+    "dest": "./offline-repository/io/modelcontextprotocol/kotlin-sdk-core/0.13.0/../../kotlin-sdk-core-jvm/0.13.0",
+    "dest-filename": "kotlin-sdk-core-jvm-0.13.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/modelcontextprotocol/kotlin-sdk-core/0.13.0/kotlin-sdk-core-0.13.0.module",
+    "sha512": "66ec0acade7001d52d894b185fa9db364403976b898afd0b88622085c961e270e827fffb9d272c66ef22db7d16ed55611cd8cb74c7b42bad01afe16d8c3e1b3a",
+    "dest": "./offline-repository/io/modelcontextprotocol/kotlin-sdk-core/0.13.0",
+    "dest-filename": "kotlin-sdk-core-0.13.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/modelcontextprotocol/kotlin-sdk-core/0.13.0/kotlin-sdk-core-0.13.0.pom",
+    "sha512": "87d29f6c3a79c36d59325945aaa0543cc72245129ba9e41c2232c31463d0d4980559715d5c5318e0b6ef272126cdeca29952871ef254830ef50c84d710bbb641",
+    "dest": "./offline-repository/io/modelcontextprotocol/kotlin-sdk-core/0.13.0",
+    "dest-filename": "kotlin-sdk-core-0.13.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/modelcontextprotocol/kotlin-sdk-server-jvm/0.13.0/kotlin-sdk-server-jvm-0.13.0.jar",
+    "sha512": "22a1fc076d165ba658a0fa3954c8f394bdefef6ced8ea6852c1b57bff5a48f7c38902da1f2d7e56c2c65b29cb9d818bdeee33fdaefb281a3a111138237969243",
+    "dest": "./offline-repository/io/modelcontextprotocol/kotlin-sdk-server-jvm/0.13.0",
+    "dest-filename": "kotlin-sdk-server-jvm-0.13.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/modelcontextprotocol/kotlin-sdk-server-jvm/0.13.0/kotlin-sdk-server-jvm-0.13.0.module",
+    "sha512": "bb1e79450a3e848bd294241e95e252aba46d54150a9b4de8c62d2b5f96ccd1fdd6853100ff0a3e93c2b31c9fc7525b452c6a1b066f0b4f36a7b50497bf8bc915",
+    "dest": "./offline-repository/io/modelcontextprotocol/kotlin-sdk-server-jvm/0.13.0",
+    "dest-filename": "kotlin-sdk-server-jvm-0.13.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/modelcontextprotocol/kotlin-sdk-server-jvm/0.13.0/kotlin-sdk-server-jvm-0.13.0.pom",
+    "sha512": "f64e7b43804e6cba5c21a1dfd7ab5f6f00ef781aef7b185533052f31776565b4786b96d47f12c982367eea7991aa3081063a50fc7dce931022b1738893a1037b",
+    "dest": "./offline-repository/io/modelcontextprotocol/kotlin-sdk-server-jvm/0.13.0",
+    "dest-filename": "kotlin-sdk-server-jvm-0.13.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/modelcontextprotocol/kotlin-sdk-server/0.13.0/../../kotlin-sdk-server-jvm/0.13.0/kotlin-sdk-server-jvm-0.13.0.module",
+    "sha512": "bb1e79450a3e848bd294241e95e252aba46d54150a9b4de8c62d2b5f96ccd1fdd6853100ff0a3e93c2b31c9fc7525b452c6a1b066f0b4f36a7b50497bf8bc915",
+    "dest": "./offline-repository/io/modelcontextprotocol/kotlin-sdk-server/0.13.0/../../kotlin-sdk-server-jvm/0.13.0",
+    "dest-filename": "kotlin-sdk-server-jvm-0.13.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/modelcontextprotocol/kotlin-sdk-server/0.13.0/kotlin-sdk-server-0.13.0.module",
+    "sha512": "bf04f36ff2f5936bf37b11569f19680e2ed522749c90e1c55e897921c633e4a1cb4a77c66cd5fe2ef0e7390b0b7b5b6e5a798e53a70f3cffe516fa30056fc453",
+    "dest": "./offline-repository/io/modelcontextprotocol/kotlin-sdk-server/0.13.0",
+    "dest-filename": "kotlin-sdk-server-0.13.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/modelcontextprotocol/kotlin-sdk-server/0.13.0/kotlin-sdk-server-0.13.0.pom",
+    "sha512": "9a1c1106115fa651779ef9481111ed5183ee5f6b0d1e800dff8aaca35d03ccd8250522f6a010ceef51520050eb7bef0181976fed6196baa0f100da5221fbcc8f",
+    "dest": "./offline-repository/io/modelcontextprotocol/kotlin-sdk-server/0.13.0",
+    "dest-filename": "kotlin-sdk-server-0.13.0.pom"
   },
   {
     "type": "file",
@@ -6095,6 +6907,27 @@
     "sha512": "d8a2e078cdba11648626e3f13781a357424b15ec9cbcb877ab5a96bbad99333d2d1db98174bb5efbbbfee1732c11a1ab553498b33b79e159c3cc3879384b7d26",
     "dest": "./offline-repository/org/apache/httpcomponents/httpmime/4.5.14",
     "dest-filename": "httpmime-4.5.14.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/fusesource/fusesource-pom/1.12/fusesource-pom-1.12.pom",
+    "sha512": "1378fc44bd73525218e4e435b638d77de1c41185c1813220a024a564d63a1bdcb9fb20fb460937cd7e26b302d5ed0024835c8337b807f1e2f8c4cd63a16db794",
+    "dest": "./offline-repository/org/fusesource/fusesource-pom/1.12",
+    "dest-filename": "fusesource-pom-1.12.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi/2.4.2/jansi-2.4.2.jar",
+    "sha512": "20594efe3eab0350f2f96fe08887291af4216803329b574e2c5de41049f122474dee2b015797ed027031f606a93e0a721a231df54f93609d74640492abe860ab",
+    "dest": "./offline-repository/org/fusesource/jansi/jansi/2.4.2",
+    "dest-filename": "jansi-2.4.2.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/fusesource/jansi/jansi/2.4.2/jansi-2.4.2.pom",
+    "sha512": "b4227c8e46533e0b4236a4997d445ca7a4374669e43231f56df78c77a2d5d40096ce7ab20de45d02725928443bc0f45fe21c8897254854c6375a8f6535fbcbcc",
+    "dest": "./offline-repository/org/fusesource/jansi/jansi/2.4.2",
+    "dest-filename": "jansi-2.4.2.pom"
   },
   {
     "type": "file",
@@ -7204,185 +8037,206 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.1.1/hot-reload-annotations-jvm-1.1.1.jar",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.2.0-beta01/hot-reload-annotations-jvm-1.2.0-beta01.jar",
     "sha512": "4de3673f93fd4b2eefef424e28f56119389aad5ce1690e6d9dd97cd4908db47bdf0899c3f75640bc735e181044748b64b53846ace0bef0b6d1a25ad5277fef25",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.1.1",
-    "dest-filename": "hot-reload-annotations-jvm-1.1.1.jar"
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.2.0-beta01",
+    "dest-filename": "hot-reload-annotations-jvm-1.2.0-beta01.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.1.1/hot-reload-annotations-jvm-1.1.1.module",
-    "sha512": "fb1c1c7dcf22540a08380ef8396ac3ff62f0c7231285ccc35307af5f74677f3b6ff9d28f5a8fbd4ede3bebd75b762266d24dda185c3dee787500a214db3638e4",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.1.1",
-    "dest-filename": "hot-reload-annotations-jvm-1.1.1.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.2.0-beta01/hot-reload-annotations-jvm-1.2.0-beta01.module",
+    "sha512": "72f39edbe001a1a0b2f689e0beac528e54deac3ea1fae0734fa3647036dfdcd95622a23aa0d0c6462aa193eab15272cd1b092aebfdadd5b0323c79dae929ec78",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.2.0-beta01",
+    "dest-filename": "hot-reload-annotations-jvm-1.2.0-beta01.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.1.1/hot-reload-annotations-jvm-1.1.1.pom",
-    "sha512": "046143fdea5100323e24bd0b010a615c343856771ddba56071b9ccb62d9450bde648166aa005f9ac7b23c06e74eda92c79f11552ec5a0e1704cd4f144481fef7",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.1.1",
-    "dest-filename": "hot-reload-annotations-jvm-1.1.1.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.2.0-beta01/hot-reload-annotations-jvm-1.2.0-beta01.pom",
+    "sha512": "bcf8cc1ef90d2922acb50318474dad81cbb3ca17361c98a62d4cf73d11fcfda47c875c5fa635d3c012d58525fd0615077ba8b1d86f56bba4c98ee61454bcb3e5",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.2.0-beta01",
+    "dest-filename": "hot-reload-annotations-jvm-1.2.0-beta01.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.1.1/../../hot-reload-annotations-jvm/1.1.1/hot-reload-annotations-jvm-1.1.1.module",
-    "sha512": "fb1c1c7dcf22540a08380ef8396ac3ff62f0c7231285ccc35307af5f74677f3b6ff9d28f5a8fbd4ede3bebd75b762266d24dda185c3dee787500a214db3638e4",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.1.1/../../hot-reload-annotations-jvm/1.1.1",
-    "dest-filename": "hot-reload-annotations-jvm-1.1.1.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.2.0-beta01/../../hot-reload-annotations-jvm/1.2.0-beta01/hot-reload-annotations-jvm-1.2.0-beta01.module",
+    "sha512": "72f39edbe001a1a0b2f689e0beac528e54deac3ea1fae0734fa3647036dfdcd95622a23aa0d0c6462aa193eab15272cd1b092aebfdadd5b0323c79dae929ec78",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.2.0-beta01/../../hot-reload-annotations-jvm/1.2.0-beta01",
+    "dest-filename": "hot-reload-annotations-jvm-1.2.0-beta01.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.1.1/hot-reload-annotations-1.1.1.jar",
-    "sha512": "c2d346ad403a69a0b97f50eb2a4f537017138084eeb9672a0b377b8593e9b4951a5f3466f97ec8c545f195ba2286bae5161d6171ae17492ca88ce5d25c7986b4",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.1.1",
-    "dest-filename": "hot-reload-annotations-1.1.1.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.2.0-beta01/hot-reload-annotations-1.2.0-beta01.jar",
+    "sha512": "19ac9bcfbf8708ce1c551057e3b57268ae82c06098b62b43f8ebafd87178f31a593f3a67038036d9d28082d05a68d5a24d5a781c21ca1e753a00612f930e1f76",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.2.0-beta01",
+    "dest-filename": "hot-reload-annotations-1.2.0-beta01.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.1.1/hot-reload-annotations-1.1.1.module",
-    "sha512": "efa3a30e2ac0c07697e48594583f58e887349be7c2a41b1203359e8f767468ec4b03fb71c8333741db9dc955c729e41e03700ce3de182037b4a4c860144d5ef6",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.1.1",
-    "dest-filename": "hot-reload-annotations-1.1.1.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.2.0-beta01/hot-reload-annotations-1.2.0-beta01.module",
+    "sha512": "c4b184c04bc163b139d418f9a0e2574deaff10db5ceed41a610bb34c8762c0b1e7e56d18252ba9d417f6f7014199c701ee6e440133e9ea3605221dd92b137db6",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.2.0-beta01",
+    "dest-filename": "hot-reload-annotations-1.2.0-beta01.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.1.1/hot-reload-annotations-1.1.1.pom",
-    "sha512": "83b6f33eab80131f59a930d04fb5aa3e7b42a09dc72c0fd5e6de5169fdae0fd8656ce1ae67ddc12e09e7a87790063aa79f17b3756b2e906c0f1e3e253bec361b",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.1.1",
-    "dest-filename": "hot-reload-annotations-1.1.1.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.2.0-beta01/hot-reload-annotations-1.2.0-beta01.pom",
+    "sha512": "c449237c7a4280ab17ccd514aeaf65eccc73d9d8210b15fcee1cf4634d0c471edfb6714e30cb3e269dfc33b31144bd275b2d3532758847c582abf4b9438d83b3",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.2.0-beta01",
+    "dest-filename": "hot-reload-annotations-1.2.0-beta01.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-core/1.1.1/hot-reload-core-1.1.1.jar",
-    "sha512": "f561f19801f4cd14a076cd16e12bc0d7f1115789b7c5ff989c6afedf2e3a6d2be6a65e98a07ebd02fcc598462f21ed66bab15aee7d11aba345c9f9f013c33746",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-core/1.1.1",
-    "dest-filename": "hot-reload-core-1.1.1.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-core/1.2.0-beta01/hot-reload-core-1.2.0-beta01.jar",
+    "sha512": "85de970b2fde7059713aecdb22dd91564797e3403ac4e95f8e6ffd03fb4a1b1a89c2a652ef1a8455d6cfa6ef982157f46e1f7ccf417c5f0fb72c2ea276b30f6d",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-core/1.2.0-beta01",
+    "dest-filename": "hot-reload-core-1.2.0-beta01.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-core/1.1.1/hot-reload-core-1.1.1.module",
-    "sha512": "a6633b3ee4551fb2d2e99c00edef1fb579412bd7d0e035d8b1150a8984b132cf0330bb4f3278d771108e2d72475b568b0f565f8fef68db656cdd1ad17a4f9385",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-core/1.1.1",
-    "dest-filename": "hot-reload-core-1.1.1.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-core/1.2.0-beta01/hot-reload-core-1.2.0-beta01.module",
+    "sha512": "96eb8212953f10da8169fac14c317e9a0b575871ab602cd11af23c5263fa3efe7028fdd9df84ba6d411603d6f0a68b1b4ed1ae2b947013388d5906a6ef905a1d",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-core/1.2.0-beta01",
+    "dest-filename": "hot-reload-core-1.2.0-beta01.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-core/1.1.1/hot-reload-core-1.1.1.pom",
-    "sha512": "93c42d677db9d5f9f5d0ead8692140da83f371dc3a75dbe9fd47710f867fd190c5c4813f5190f731a46789d8da9bf01e4f4b18fce7eb6b6e1815898918b955d2",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-core/1.1.1",
-    "dest-filename": "hot-reload-core-1.1.1.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-core/1.2.0-beta01/hot-reload-core-1.2.0-beta01.pom",
+    "sha512": "6d4b1f249ae5d0aab1ceb8573517e6e71a0df46e3287c298daa4bc57ffcb2d35555e24c34750c278306a1ce0b0e3b9c26315bc1038bd0c1e5371c0267290013b",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-core/1.2.0-beta01",
+    "dest-filename": "hot-reload-core-1.2.0-beta01.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-devtools-api/1.1.1/hot-reload-devtools-api-1.1.1.jar",
-    "sha512": "1394ee9fb1c9283feb3e716675e3d50c92a1cbbca4cfce496d5aea47ff5195a861b067c582e14b9189e15a83b7d2052eb672006e4b83bc28484de64305512548",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-devtools-api/1.1.1",
-    "dest-filename": "hot-reload-devtools-api-1.1.1.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-devtools-api/1.2.0-beta01/hot-reload-devtools-api-1.2.0-beta01.jar",
+    "sha512": "a006fefd12b784c792bc6de030cc080eb238a61979cf4379616257d6f39df5cb93eacb34b6ce944f97241ba98c935b02027c0983b4add1f3427295946e611105",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-devtools-api/1.2.0-beta01",
+    "dest-filename": "hot-reload-devtools-api-1.2.0-beta01.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-devtools-api/1.1.1/hot-reload-devtools-api-1.1.1.module",
-    "sha512": "5c28973e343678642b9279ad00c92f79ba81e94effd911918dd9d6a47d7a02d3eed7bcf3588943e1b3eb03c109b8dbc8461a9fc18b3215ad4b4a5e45d696fa51",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-devtools-api/1.1.1",
-    "dest-filename": "hot-reload-devtools-api-1.1.1.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-devtools-api/1.2.0-beta01/hot-reload-devtools-api-1.2.0-beta01.module",
+    "sha512": "3605b73a58b60e378b681e308822b47bc0451c1b3eb5c39eabebe8b242d7f1702932a06aa2ece5fb013ed486356aeebad87c5c7ae111d0898fbbf3f83a5d7aa6",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-devtools-api/1.2.0-beta01",
+    "dest-filename": "hot-reload-devtools-api-1.2.0-beta01.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-devtools-api/1.1.1/hot-reload-devtools-api-1.1.1.pom",
-    "sha512": "77a509000a122823433e3dd4e82e81d774aeb78a2716d6bbcc0424262844c97c6f49b7fd62322f6461661f198307e2e5bcfc4f92b8976246655894dad6d95957",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-devtools-api/1.1.1",
-    "dest-filename": "hot-reload-devtools-api-1.1.1.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-devtools-api/1.2.0-beta01/hot-reload-devtools-api-1.2.0-beta01.pom",
+    "sha512": "6608e1df59155335ba864a3d39f959ffa70f22c648c2d9c340762e847837be1900e1b78de46c4b5a00ada8bc8759e087227cffa4962a664febac151b7ae3d66d",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-devtools-api/1.2.0-beta01",
+    "dest-filename": "hot-reload-devtools-api-1.2.0-beta01.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.1.1/hot-reload-orchestration-1.1.1.jar",
-    "sha512": "a426f00531a46dc45e6166218b59c21985e6cd6230ad4e862430d49e1bb5c03b594aaa0604f8e2a7a529c30287d0b5b2cb139b2d42f9aed83424e1acccd56634",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.1.1",
-    "dest-filename": "hot-reload-orchestration-1.1.1.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-mcp/1.2.0-beta01/hot-reload-mcp-1.2.0-beta01.jar",
+    "sha512": "a2b45bad92b5cadfdabc77411ef9cf5d924f9894f3352e59d2965cd85d7acab856975f16f2c827cdbabda17ff93d06c653056e5440d1d79366b44e595b0a7c6e",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-mcp/1.2.0-beta01",
+    "dest-filename": "hot-reload-mcp-1.2.0-beta01.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.1.1/hot-reload-orchestration-1.1.1.module",
-    "sha512": "01be3f18a641bc4125090138c07fa76b60ea588ae6cec5f3eb4e5ff37c6ec6eaaf8005d83e3ab454245d28ccf73b3819ee8283ddcb7fe9193988bf01d4cfaba8",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.1.1",
-    "dest-filename": "hot-reload-orchestration-1.1.1.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-mcp/1.2.0-beta01/hot-reload-mcp-1.2.0-beta01.module",
+    "sha512": "cdd4b06b7e71202b1f3f8e27026f8c462d1aa5b5ea12e01938f6f85cdbc5562769925ac6824e893902c7d9d4ca2734de5d1eb4c8117588bde00153af9dc31b33",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-mcp/1.2.0-beta01",
+    "dest-filename": "hot-reload-mcp-1.2.0-beta01.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.1.1/hot-reload-orchestration-1.1.1.pom",
-    "sha512": "7f1edec61ee4fd3ef03de050ebc351c5260f7612caf51d4e8ea3d772d383230922b80b72f8f0862d6a86121c5e8881522e04c52841ba2b0cc07994f7fe61e923",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.1.1",
-    "dest-filename": "hot-reload-orchestration-1.1.1.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-mcp/1.2.0-beta01/hot-reload-mcp-1.2.0-beta01.pom",
+    "sha512": "0795e7ecd0be0ea1ec0c9c3a3ed948da28fad11d515e843840f86f82aeff2945b9ae24f21bfcbb177f2e0d2518ba92faacbf17984a6c8b25259756287967e940",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-mcp/1.2.0-beta01",
+    "dest-filename": "hot-reload-mcp-1.2.0-beta01.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-api-jvm/1.1.1/hot-reload-runtime-api-jvm-1.1.1.jar",
-    "sha512": "06b8693f8f5378d46a9df7322be468427490c600aa1377f436c14d6f04de24f72c012e0cec99704a3e5488bab83b938749006adc1c0900f4fac004f548005419",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-api-jvm/1.1.1",
-    "dest-filename": "hot-reload-runtime-api-jvm-1.1.1.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.2.0-beta01/hot-reload-orchestration-1.2.0-beta01.jar",
+    "sha512": "6cd2a1a9c67bcea2af7b8452273665b1965cf891ec796fdc1dd16af2c45dd54acd7b16588e7e4e79d606d65cf0a420fc5bbad960768a871f96d8a43260f97093",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.2.0-beta01",
+    "dest-filename": "hot-reload-orchestration-1.2.0-beta01.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-api-jvm/1.1.1/hot-reload-runtime-api-jvm-1.1.1.module",
-    "sha512": "2bc32f598f5d6eae58ca778b7172abc4f8ff17f4be63745f26b486fbd69ec3a89e9f0d90cbcb1d89c2411c1ac53725872acb5fb3accaa3614cd127ece44b919e",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-api-jvm/1.1.1",
-    "dest-filename": "hot-reload-runtime-api-jvm-1.1.1.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.2.0-beta01/hot-reload-orchestration-1.2.0-beta01.module",
+    "sha512": "0cffa2c8daf0f74ae108b74cef9a729a53f512b6d03bd912aeff4d159b3fc84ea9922af6411d2837833bc18ae38947a11703603b3c2f5a5524bdac3197940392",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.2.0-beta01",
+    "dest-filename": "hot-reload-orchestration-1.2.0-beta01.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-api-jvm/1.1.1/hot-reload-runtime-api-jvm-1.1.1.pom",
-    "sha512": "93c5fbf4195aef995c91f18d07ec78a134e4febac679f0e220e34961787243f87c1935641940ab8363222f2816145bb31ad708404c734b0b85b64c1764a208d6",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-api-jvm/1.1.1",
-    "dest-filename": "hot-reload-runtime-api-jvm-1.1.1.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.2.0-beta01/hot-reload-orchestration-1.2.0-beta01.pom",
+    "sha512": "848270b0d914d92101bfa187565c408fd5d3276a29553457ce1c3785c22c34982f8a9ad3e057a43dd97f19b1d856b5eaee91b4ab8f2b3d749eee38b5dd8f2742",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.2.0-beta01",
+    "dest-filename": "hot-reload-orchestration-1.2.0-beta01.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.1.1/../../hot-reload-runtime-api-jvm/1.1.1/hot-reload-runtime-api-jvm-1.1.1.module",
-    "sha512": "2bc32f598f5d6eae58ca778b7172abc4f8ff17f4be63745f26b486fbd69ec3a89e9f0d90cbcb1d89c2411c1ac53725872acb5fb3accaa3614cd127ece44b919e",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.1.1/../../hot-reload-runtime-api-jvm/1.1.1",
-    "dest-filename": "hot-reload-runtime-api-jvm-1.1.1.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-api-jvm/1.2.0-beta01/hot-reload-runtime-api-jvm-1.2.0-beta01.jar",
+    "sha512": "4740cc48079f1114aca9d9cedbbf10b43be8a084e55d3f118c08e8fe0a85dcd8ea8252695c590421ad24b99509f377a71ce0f6c4a06f3bcb3fa57ed13821d36b",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-api-jvm/1.2.0-beta01",
+    "dest-filename": "hot-reload-runtime-api-jvm-1.2.0-beta01.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.1.1/hot-reload-runtime-api-1.1.1.jar",
-    "sha512": "b25c69908baae3c31b2dd4b46ae61cf14edd3eebf6fc0a1312b97ab0779b473c93a7f750f480fd71d52337a3f2912392fec54543cf1cd62eb4f48e068922c8ce",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.1.1",
-    "dest-filename": "hot-reload-runtime-api-1.1.1.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-api-jvm/1.2.0-beta01/hot-reload-runtime-api-jvm-1.2.0-beta01.module",
+    "sha512": "a188667c02e103f940fd19b6e0423d5fbeaf571d5e94718ca8cf20e750c5dc057db1c07e44551936aa5f291c214c915e3cc413587b04435ecf6d112852ded995",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-api-jvm/1.2.0-beta01",
+    "dest-filename": "hot-reload-runtime-api-jvm-1.2.0-beta01.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.1.1/hot-reload-runtime-api-1.1.1.module",
-    "sha512": "d715603a5c74857e7ce2c708ba5a648b997759cd6be4f65178533dea80001b179fd24aabc201fc6cc64ba48df3dafb5a907212c10e51a969ff014e2386c3714c",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.1.1",
-    "dest-filename": "hot-reload-runtime-api-1.1.1.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-api-jvm/1.2.0-beta01/hot-reload-runtime-api-jvm-1.2.0-beta01.pom",
+    "sha512": "591b7555ea85025f7130950e15f57c186e76c217b94a7d6b17aea771953a7a590d26d5cb4f07241ef275ab9bfe851e59693014fa974a5e20d2cb20cc7cd60077",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-api-jvm/1.2.0-beta01",
+    "dest-filename": "hot-reload-runtime-api-jvm-1.2.0-beta01.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.1.1/hot-reload-runtime-api-1.1.1.pom",
-    "sha512": "2b75ddbd39e5c1873b3c32b2ebc567d901a0f749d3c93e9e65faf39278214aa43fede3049d8a3e1910b3a301712d91002c50f3569e7a3c0c22f74a068664e8ed",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.1.1",
-    "dest-filename": "hot-reload-runtime-api-1.1.1.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.2.0-beta01/../../hot-reload-runtime-api-jvm/1.2.0-beta01/hot-reload-runtime-api-jvm-1.2.0-beta01.module",
+    "sha512": "a188667c02e103f940fd19b6e0423d5fbeaf571d5e94718ca8cf20e750c5dc057db1c07e44551936aa5f291c214c915e3cc413587b04435ecf6d112852ded995",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.2.0-beta01/../../hot-reload-runtime-api-jvm/1.2.0-beta01",
+    "dest-filename": "hot-reload-runtime-api-jvm-1.2.0-beta01.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-jvm/1.1.1/hot-reload-runtime-jvm-1.1.1.jar",
-    "sha512": "e1e9b2d4ab00fd818779b56ba1d9360cdb6e066801ee8c38f23210f0b6f3ea03e2aca0770ed4653f79a35f0cd0d8a27c31ceb96457c47d74fac135c7dc59f748",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-jvm/1.1.1",
-    "dest-filename": "hot-reload-runtime-jvm-1.1.1.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.2.0-beta01/hot-reload-runtime-api-1.2.0-beta01.jar",
+    "sha512": "14ed00cfa8ee887ea774ae9bdb79ea41434479c11851207b7a897583db6354c7fae8eed10098f71dfba65089cdc713a8f005fee5ce55b2202d4ac6bce417b5c6",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.2.0-beta01",
+    "dest-filename": "hot-reload-runtime-api-1.2.0-beta01.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-jvm/1.1.1/hot-reload-runtime-jvm-1.1.1.module",
-    "sha512": "98f4b8ed42745dceb164391d42eb3fe37f76f54e6c6ec8ca000ded25d13e5266efea59cc35b1aba9934f7e5f71161f90462dff8c6ceac11091f24cde622b2a46",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-jvm/1.1.1",
-    "dest-filename": "hot-reload-runtime-jvm-1.1.1.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.2.0-beta01/hot-reload-runtime-api-1.2.0-beta01.module",
+    "sha512": "6ecc0fef2baee28f8e60f1e3ccdf2f4ed419f4e77dc35b0f8743fb2a7b85d9aa87c934ea421e3c9c9f8edb31575f7494db0b21b5a7e674d06f0c79f562b10001",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.2.0-beta01",
+    "dest-filename": "hot-reload-runtime-api-1.2.0-beta01.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-jvm/1.1.1/hot-reload-runtime-jvm-1.1.1.pom",
-    "sha512": "b36e213c0f1aeae0a1d57645713d53a795acaaef7acc7f681b0b80568d2f2291cf7e19b12467706bcab640a1f71e08482de8c834cf4740d3aaf322f2b65a759f",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-jvm/1.1.1",
-    "dest-filename": "hot-reload-runtime-jvm-1.1.1.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.2.0-beta01/hot-reload-runtime-api-1.2.0-beta01.pom",
+    "sha512": "2e999a42a133b7e2c4e580697369638e8468b5395550e505cc43bfeca19b2a70bfbcb7aa9c421106cd3443d9a52aa6e2276fdc43f0d4a42bbb0a5a7771a31aac",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-api/1.2.0-beta01",
+    "dest-filename": "hot-reload-runtime-api-1.2.0-beta01.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-jvm/1.2.0-beta01/hot-reload-runtime-jvm-1.2.0-beta01.jar",
+    "sha512": "735afb4eaf867250aef22b7c8b23c9b5ddaac0eff0276f9fa73159eac79214135b4d09027496d95b5d40b8a31055a82c824a9dd30d7ad11aa03b1668417fc921",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-jvm/1.2.0-beta01",
+    "dest-filename": "hot-reload-runtime-jvm-1.2.0-beta01.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-jvm/1.2.0-beta01/hot-reload-runtime-jvm-1.2.0-beta01.module",
+    "sha512": "3940ec7d135244c9f06aa2255945b2b8c65b4abe4e41705bbf0c05e1cd27e107ea12c208d32ee491e599467070bd9663ef52221977ec92a424e06d8a03204679",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-jvm/1.2.0-beta01",
+    "dest-filename": "hot-reload-runtime-jvm-1.2.0-beta01.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-runtime-jvm/1.2.0-beta01/hot-reload-runtime-jvm-1.2.0-beta01.pom",
+    "sha512": "ad451a472922832335c081901247fc70f9f0e8626a5177a9958bcaba0fd92c3e0303e71eddbc105a20746e5476a42fa530dbfdb2469215bef9002b0c3a75492c",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-runtime-jvm/1.2.0-beta01",
+    "dest-filename": "hot-reload-runtime-jvm-1.2.0-beta01.pom"
   },
   {
     "type": "file",
@@ -8716,6 +9570,20 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.3.0/kotlin-reflect-2.3.0.jar",
+    "sha512": "4c015040675028f553d4ebe5edf487a2288d8d20a2b95269a241e141d4087a23a98878d123b31da5a8637bd5f2daf9548a1df9f93a834ffd054e2befd8213de9",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.3.0",
+    "dest-filename": "kotlin-reflect-2.3.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.3.0/kotlin-reflect-2.3.0.pom",
+    "sha512": "12e53c164c83b0f51d0f033107449502b7eb20f32ea6d0efd604e0de0af45d7bc48a73cf104be2791909c7975c127027bede64838ab3df9b1a954bebd7161862",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.3.0",
+    "dest-filename": "kotlin-reflect-2.3.0.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-script-runtime/2.4.0/kotlin-script-runtime-2.4.0.jar",
     "sha512": "8e94e25c455ca0f9b02c0217dfbfb43ceac3d9bc5a199263396cb044b5072d8cc382f7666b16027476067401b42644786ee5bb6c758c6b755d7c02c11c32d492",
     "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-script-runtime/2.4.0",
@@ -8839,6 +9707,13 @@
     "sha512": "0501d7afa27f8902e60111fa2fe013ea5e1b761a3d44e76110a890b2435be9fe326802e64662489b5435b8898bd698a1940a7ddb440a5b5c6cd9d4117893613c",
     "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.20",
     "dest-filename": "kotlin-stdlib-common-2.3.20.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.21/kotlin-stdlib-common-2.3.21.pom",
+    "sha512": "e9f45435cf2fc7d03d9bbddcc8bdb581f89ba22d6b8f362c4bd31d0c03c96193f0d0fe60712a6b712e042b275eabaab379251340192a702eae46160ac102b892",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.21",
+    "dest-filename": "kotlin-stdlib-common-2.3.21.pom"
   },
   {
     "type": "file",
@@ -8996,6 +9871,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.21/kotlin-stdlib-2.3.21.jar",
+    "sha512": "5564b17f006a9fdf93c93439b357e1fb82742c72d23b7aaa2e50d6db730d0b40426257e4e40eca7c70f9d514367b0057e51b84e1d0e49817002bc463939fee59",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.21",
+    "dest-filename": "kotlin-stdlib-2.3.21.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.21/kotlin-stdlib-2.3.21.module",
+    "sha512": "ceaf8d68123116dfe1f8dfad705b7e1444d16a3174dcfda85d4b2423c0fed95543e394c8c3f2222cb69a87033d93a8f2c9eccb854d990df3040e10358ae5bd8c",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.21",
+    "dest-filename": "kotlin-stdlib-2.3.21.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.21/kotlin-stdlib-2.3.21.pom",
+    "sha512": "aa709ce4ae3117e23019eae3ec54faa06157972fdfadceccff1186e61c91391970e9b922b2f0b1009a9b01ee05fa2ae4c4fcd3bbfa011859527299cf4f75048f",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.21",
+    "dest-filename": "kotlin-stdlib-2.3.21.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.4.0/kotlin-stdlib-2.4.0-all.jar",
     "sha512": "fe9f409fc8729397856e15d6ff74b5e3fd2390c27d3402b1fda14b6b196d0d010cf5164e8c4b71f801903b149b0823e694bd3227c859df1626c93ff0d925339d",
     "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.4.0",
@@ -9045,10 +9941,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-tooling-core/2.2.21/kotlin-tooling-core-2.2.21.pom",
-    "sha512": "39c22fd792a4f2f4f93d389565ae06a9e84f3d80d9f5e1315bf4bd52f1ebaab7ca0a415dbdb3f8c2c3b19fee81b94dc1f17dbb6004f63b189674875ae7e2a2f2",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-tooling-core/2.2.21",
-    "dest-filename": "kotlin-tooling-core-2.2.21.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-tooling-core/2.3.21/kotlin-tooling-core-2.3.21.pom",
+    "sha512": "9efe1421cb67443d14b68f6dbf5b87dba8c1ffafd66181515f90e0e676e574e91cd6ef4c80cf6ccd1bba9ec0e414961d01ccb1c4ded4706fc1fc708a0f27c1c4",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-tooling-core/2.3.21",
+    "dest-filename": "kotlin-tooling-core-2.3.21.pom"
   },
   {
     "type": "file",
@@ -9150,6 +10046,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.4.0/kotlinx-collections-immutable-jvm-0.4.0.jar",
+    "sha512": "00943d12cb994c7103b87baeec3ef4291b7cbd72242babd673b53b39e19242501f29ccfba3701d97f5d72fb72bd65634c697259bfdf767fc7d988eb49844cc27",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.4.0",
+    "dest-filename": "kotlinx-collections-immutable-jvm-0.4.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.4.0/kotlinx-collections-immutable-jvm-0.4.0.module",
+    "sha512": "be25e61f0e0f8f8a0f9fe05f1e18ad4973fe9ff8f5bedde18d91dbe751fe3aabae87c7e09671f4ee2fc3a0b7978b355fbfc3ccfecd7d3e9a75f953b9acea5282",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.4.0",
+    "dest-filename": "kotlinx-collections-immutable-jvm-0.4.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.4.0/kotlinx-collections-immutable-jvm-0.4.0.pom",
+    "sha512": "18678377c2612b3dbe456f71d2425929ccdb438cbf0bcd8cbb362f2316532eabaa1d76d96728737035bfb2efa758e672ef5c483c5fe2498676d70e92716614fc",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.4.0",
+    "dest-filename": "kotlinx-collections-immutable-jvm-0.4.0.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.5.0/kotlinx-collections-immutable-jvm-0.5.0.jar",
     "sha512": "f114a43b6558fc8f1e2532049c8d5cbc6f4923bca6c56e93fbe163c01f1751714d21581f89de62a251705e377e24f63aa8d2dae9ab695a2f385eaf08895de9f2",
     "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.5.0",
@@ -9168,6 +10085,27 @@
     "sha512": "cb461dbe11169c6c85a1bea5825110a3e086e4b631c93a7d2253ab0aba98027b38d6b375eb47ba2b1aa0a6d1ddc032f8bcdfb1a4bc54a258fc382afe58ea7db5",
     "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.5.0",
     "dest-filename": "kotlinx-collections-immutable-jvm-0.5.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.4.0/../../kotlinx-collections-immutable-jvm/0.4.0/kotlinx-collections-immutable-jvm-0.4.0.module",
+    "sha512": "be25e61f0e0f8f8a0f9fe05f1e18ad4973fe9ff8f5bedde18d91dbe751fe3aabae87c7e09671f4ee2fc3a0b7978b355fbfc3ccfecd7d3e9a75f953b9acea5282",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.4.0/../../kotlinx-collections-immutable-jvm/0.4.0",
+    "dest-filename": "kotlinx-collections-immutable-jvm-0.4.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.4.0/kotlinx-collections-immutable-0.4.0.module",
+    "sha512": "b0bf50c43df2755fd59729c91de7bd6ea35673d860785cf42de0da0ba20422551e40c0d2aaa004c4a768e33984cedce682ccac05894d0ac21e5c27dfa346adf6",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.4.0",
+    "dest-filename": "kotlinx-collections-immutable-0.4.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.4.0/kotlinx-collections-immutable-0.4.0.pom",
+    "sha512": "55db70dbef9adab5039c86ba318439906ac472dc6697eb1d7a57d6f94b77717995084a3e0c1365e19267f7f4b411856749b65683c49ba943ebfd2ee6003f30a4",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.4.0",
+    "dest-filename": "kotlinx-collections-immutable-0.4.0.pom"
   },
   {
     "type": "file",
@@ -10025,6 +10963,20 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar",
+    "sha512": "9a3e79db6666a6096a3021bb2e1d918f30f589d8de51d6b600f8ebd92515a510ae2d8f87919cc2dfa8365d64f10194cac8dfa0fb950160eef0e9da06f6caaeb9",
+    "dest": "./offline-repository/org/slf4j/slf4j-api/2.0.17",
+    "dest-filename": "slf4j-api-2.0.17.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.pom",
+    "sha512": "462872ccda241179a77ebc89c3f7be93870fffae344e09d3cccc33d6448336dc77affc9572f420d7da788b3f0eb072b7facc9b7e609b33742ed48f4bb467cb70",
+    "dest": "./offline-repository/org/slf4j/slf4j-api/2.0.17",
+    "dest-filename": "slf4j-api-2.0.17.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.18/slf4j-api-2.0.18.jar",
     "sha512": "539288fa0c96cea750d11293dbed4c562630587aa7cd88bbf76ad04390d1c40636506da48faa6453090c7e9baa6b690b9fbded55a7e2b4a91547eeea011f971a",
     "dest": "./offline-repository/org/slf4j/slf4j-api/2.0.18",
@@ -10036,6 +10988,13 @@
     "sha512": "885fe6fc408c657d9fc72b5e8d9263e74360597b30b9bac7bd9f34e9f79b4ed8d1ec79257ac1760cc4c452697e9fb912313f3370f6492470579921efea01fd0a",
     "dest": "./offline-repository/org/slf4j/slf4j-api/2.0.18",
     "dest-filename": "slf4j-api-2.0.18.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-bom/2.0.17/slf4j-bom-2.0.17.pom",
+    "sha512": "cb2db4597b98b9981959413e3ffcd5882f8e267d3d51f989c396807c36893296065cbe443a173029e8d3a0851eced25f5149dc2dafa0dd2c29fca737180a7029",
+    "dest": "./offline-repository/org/slf4j/slf4j-bom/2.0.17",
+    "dest-filename": "slf4j-bom-2.0.17.pom"
   },
   {
     "type": "file",
@@ -10057,6 +11016,13 @@
     "sha512": "6999dd8dc5ca65216a0f582268ebf736aecf258a23592ce3d3420dc3a5f8bf916040c24620082167f215e387c11786542f2c36247e185d7aefa3419dde386a04",
     "dest": "./offline-repository/org/slf4j/slf4j-nop/2.0.18",
     "dest-filename": "slf4j-nop-2.0.18.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.17/slf4j-parent-2.0.17.pom",
+    "sha512": "5b16a209843c18a478a0a16dff83ae1c75eedbdeadc15a958d536a36631d4d39a9998e085c165a79ced8ad187f021e2f3cd4068856ca174db35657ef5a473c5a",
+    "dest": "./offline-repository/org/slf4j/slf4j-parent/2.0.17",
+    "dest-filename": "slf4j-parent-2.0.17.pom"
   },
   {
     "type": "file",
