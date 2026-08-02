@@ -103,6 +103,7 @@ kotlin {
             implementation(feedflowLibs.ktor.client.auth)
             implementation(feedflowLibs.compose.unstyled.scrollbars)
             implementation(feedflowLibs.compose.unstyled.slider)
+            implementation(feedflowLibs.immutable.collections)
         }
     }
 }
