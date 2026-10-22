@@ -34,6 +34,10 @@ dependencyResolutionManagement {
         }
         mavenCentral()
         maven {
+            url = uri("https://www.jetbrains.com/intellij-repository/releases")
+            content { includeModule("com.jetbrains.intellij.platform", "icons") }
+        }
+        maven {
             url = uri("https://jitpack.io")
             content {
                 includeModule("com.github.Dansoftowner", "jSystemThemeDetector")
