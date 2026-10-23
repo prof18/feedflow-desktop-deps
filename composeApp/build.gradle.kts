@@ -87,7 +87,6 @@ kotlin {
             implementation(feedflowLibs.jetbrains.lifecycle.viewmodel.navigation3)
             implementation(feedflowLibs.koin.composeVM)
             implementation(feedflowLibs.ktor.client.auth)
-            implementation(feedflowLibs.compose.unstyled.scrollbars)
             implementation(feedflowLibs.compose.unstyled.slider)
             implementation(feedflowLibs.immutable.collections)
             implementation(feedflowLibs.klead)
